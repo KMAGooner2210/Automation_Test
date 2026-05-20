@@ -1,0 +1,122 @@
+[
+    {
+        "top": 115,
+        "left": 13,
+        "width": 36,
+        "height": 29,
+        "label": "Home",
+        "mode": "click"
+    },
+    {
+        "top": 120,
+        "left": 171,
+        "width": 78,
+        "height": 26,
+        "label": "Start",
+        "mode": "click"
+    },
+    {
+        "top": 123,
+        "left": 562,
+        "width": 64,
+        "height": 25,
+        "label": "Sens_Preset",
+        "mode": "click"
+    },
+    {
+        "top": 164,
+        "left": 1508,
+        "width": 54,
+        "height": 21,
+        "label": "GS_Config",
+        "mode": "click"
+    },
+    {
+        "top": 165,
+        "left": 1652,
+        "width": 59,
+        "height": 21,
+        "label": "GS_Feat_Int",
+        "mode": "click"
+    },
+    {
+        "top": 163,
+        "left": 1796,
+        "width": 50,
+        "height": 21,
+        "label": "GS_Reg_Access",
+        "mode": "click"
+    },
+    {
+        "top": 258,
+        "left": 1529,
+        "width": 102,
+        "height": 24,
+        "label": "Wearable",
+        "mode": "click"
+    },
+    {
+        "top": 307,
+        "left": 1540,
+        "width": 92,
+        "height": 20,
+        "label": "Smartphone",
+        "mode": "click"
+    },
+    {
+        "top": 111,
+        "left": 1704,
+        "width": 37,
+        "height": 12,
+        "label": "GS_Scroll",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 971,
+        "left": 1511,
+        "width": 92,
+        "height": 25,
+        "label": "Power_On_reset",
+        "mode": "click"
+    },
+    {
+        "top": 969,
+        "left": 1808,
+        "width": 52,
+        "height": 26,
+        "label": "Soft_reset",
+        "mode": "click"
+    },
+    {
+        "top": 122,
+        "left": 1313,
+        "width": 52,
+        "height": 22,
+        "label": "Data_Export",
+        "mode": "click"
+    },
+    {
+        "top": 159,
+        "left": 9,
+        "width": 44,
+        "height": 32,
+        "label": "Memory_map",
+        "mode": "click"
+    },
+    {
+        "top": 208,
+        "left": 10,
+        "width": 40,
+        "height": 31,
+        "label": "Interface_selection",
+        "mode": "click"
+    },
+    {
+        "top": 255,
+        "left": 11,
+        "width": 39,
+        "height": 29,
+        "label": "Settings",
+        "mode": "click"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "top": 196,
+        "left": 210,
+        "width": 214,
+        "height": 39,
+        "label": "ocr_Plot1",
+        "mode": "ocr"
+    },
+    {
+        "top": 272,
+        "left": 207,
+        "width": 218,
+        "height": 38,
+        "label": "ocr_Plot3",
+        "mode": "ocr"
+    },
+    {
+        "top": 347,
+        "left": 208,
+        "width": 214,
+        "height": 44,
+        "label": "ocr_Plot5",
+        "mode": "ocr"
+    },
+    {
+        "top": 194,
+        "left": 1113,
+        "width": 182,
+        "height": 42,
+        "label": "ocr_Plot2",
+        "mode": "ocr"
+    },
+    {
+        "top": 271,
+        "left": 1113,
+        "width": 196,
+        "height": 42,
+        "label": "ocr_Plot4",
+        "mode": "ocr"
+    },
+    {
+        "top": 451,
+        "left": 1737,
+        "width": 117,
+        "height": 64,
+        "label": "ocr_Scale",
+        "mode": "ocr"
+    }
+]

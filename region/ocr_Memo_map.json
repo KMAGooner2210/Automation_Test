@@ -1,0 +1,74 @@
+[
+    {
+        "top": 281,
+        "left": 719,
+        "width": 146,
+        "height": 40,
+        "label": "ocr_line1",
+        "mode": "ocr"
+    },
+    {
+        "top": 343,
+        "left": 720,
+        "width": 145,
+        "height": 47,
+        "label": "ocr_line2",
+        "mode": "ocr"
+    },
+    {
+        "top": 401,
+        "left": 720,
+        "width": 144,
+        "height": 47,
+        "label": "ocr_line3",
+        "mode": "ocr"
+    },
+    {
+        "top": 459,
+        "left": 721,
+        "width": 142,
+        "height": 47,
+        "label": "ocr_line4",
+        "mode": "ocr"
+    },
+    {
+        "top": 522,
+        "left": 719,
+        "width": 143,
+        "height": 47,
+        "label": "ocr_line5",
+        "mode": "ocr"
+    },
+    {
+        "top": 581,
+        "left": 720,
+        "width": 144,
+        "height": 47,
+        "label": "ocr_line6",
+        "mode": "ocr"
+    },
+    {
+        "top": 642,
+        "left": 720,
+        "width": 142,
+        "height": 47,
+        "label": "ocr_line7",
+        "mode": "ocr"
+    },
+    {
+        "top": 703,
+        "left": 721,
+        "width": 140,
+        "height": 46,
+        "label": "ocr_line8",
+        "mode": "ocr"
+    },
+    {
+        "top": 254,
+        "left": 98,
+        "width": 194,
+        "height": 65,
+        "label": "Memory_chosen",
+        "mode": "ocr"
+    }
+]

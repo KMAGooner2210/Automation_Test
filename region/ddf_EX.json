@@ -1,0 +1,170 @@
+[
+    {
+        "top": 447,
+        "left": 281,
+        "width": 173,
+        "height": 20,
+        "label": "file_name",
+        "mode": "click"
+    },
+    {
+        "top": 447,
+        "left": 284,
+        "width": 243,
+        "height": 19,
+        "label": "file_name_input",
+        "mode": "input"
+    },
+    {
+        "top": 548,
+        "left": 896,
+        "width": 83,
+        "height": 22,
+        "label": "Save",
+        "mode": "click"
+    },
+    {
+        "top": 550,
+        "left": 999,
+        "width": 80,
+        "height": 20,
+        "label": "Cancel",
+        "mode": "click"
+    },
+    {
+        "top": 59,
+        "left": 1267,
+        "width": 32,
+        "height": 34,
+        "label": "Exit",
+        "mode": "click"
+    },
+    {
+        "top": 150,
+        "left": 647,
+        "width": 41,
+        "height": 23,
+        "label": "Host_logging",
+        "mode": "click"
+    },
+    {
+        "top": 234,
+        "left": 650,
+        "width": 83,
+        "height": 25,
+        "label": "Select_all",
+        "mode": "click"
+    },
+    {
+        "top": 280,
+        "left": 674,
+        "width": 86,
+        "height": 28,
+        "label": "Sensor_time",
+        "mode": "click"
+    },
+    {
+        "top": 333,
+        "left": 674,
+        "width": 81,
+        "height": 20,
+        "label": "Accelerometer",
+        "mode": "click"
+    },
+    {
+        "top": 370,
+        "left": 798,
+        "width": 47,
+        "height": 25,
+        "label": "Axes_x",
+        "mode": "click"
+    },
+    {
+        "top": 372,
+        "left": 981,
+        "width": 42,
+        "height": 23,
+        "label": "Axes_y",
+        "mode": "click"
+    },
+    {
+        "top": 369,
+        "left": 1128,
+        "width": 52,
+        "height": 26,
+        "label": "Axes_z",
+        "mode": "click"
+    },
+    {
+        "top": 420,
+        "left": 799,
+        "width": 35,
+        "height": 23,
+        "label": "Unit_g",
+        "mode": "click"
+    },
+    {
+        "top": 420,
+        "left": 978,
+        "width": 38,
+        "height": 22,
+        "label": "Unit_m/s2",
+        "mode": "click"
+    },
+    {
+        "top": 419,
+        "left": 1130,
+        "width": 41,
+        "height": 24,
+        "label": "Unit_lsb",
+        "mode": "click"
+    },
+    {
+        "top": 479,
+        "left": 674,
+        "width": 66,
+        "height": 22,
+        "label": "Temperature",
+        "mode": "click"
+    },
+    {
+        "top": 653,
+        "left": 1242,
+        "width": 28,
+        "height": 20,
+        "label": "file_location",
+        "mode": "click"
+    },
+    {
+        "top": 731,
+        "left": 982,
+        "width": 80,
+        "height": 28,
+        "label": "Overwrite",
+        "mode": "click"
+    },
+    {
+        "top": 733,
+        "left": 649,
+        "width": 84,
+        "height": 23,
+        "label": "Append",
+        "mode": "click"
+    },
+    {
+        "top": 853,
+        "left": 998,
+        "width": 21,
+        "height": 9,
+        "label": "disable_logging",
+        "mode": "click"
+    },
+    {
+        "top": 826,
+        "left": 993,
+        "width": 23,
+        "height": 9,
+        "label": "enable_logging",
+        "mode": "click"
+    }
+]

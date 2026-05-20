@@ -1,0 +1,90 @@
+[
+    {
+        "top": 313,
+        "left": 1690,
+        "width": 144,
+        "height": 40,
+        "label": "ocr_CMD_SUSPEND",
+        "mode": "ocr"
+    },
+    {
+        "top": 420,
+        "left": 1689,
+        "width": 146,
+        "height": 40,
+        "label": "ocr_SENSOR_CTRL",
+        "mode": "ocr"
+    },
+    {
+        "top": 528,
+        "left": 1690,
+        "width": 142,
+        "height": 40,
+        "label": "ocr_ODR",
+        "mode": "ocr"
+    },
+    {
+        "top": 579,
+        "left": 1690,
+        "width": 141,
+        "height": 36,
+        "label": "ocr_BWP",
+        "mode": "ocr"
+    },
+    {
+        "top": 627,
+        "left": 1689,
+        "width": 144,
+        "height": 37,
+        "label": "ocr_POWER_MODE",
+        "mode": "ocr"
+    },
+    {
+        "top": 734,
+        "left": 1692,
+        "width": 93,
+        "height": 37,
+        "label": "ocr_Range",
+        "mode": "ocr"
+    },
+    {
+        "top": 782,
+        "left": 1693,
+        "width": 93,
+        "height": 37,
+        "label": "ocr_IIR_RO",
+        "mode": "ocr"
+    },
+    {
+        "top": 832,
+        "left": 1693,
+        "width": 127,
+        "height": 35,
+        "label": "ocr_NOISE_MODE",
+        "mode": "ocr"
+    },
+    {
+        "top": 881,
+        "left": 1692,
+        "width": 98,
+        "height": 36,
+        "label": "ocr_DRDY_AUTO_CLEAR",
+        "mode": "ocr"
+    },
+    {
+        "top": 157,
+        "left": 1690,
+        "width": 82,
+        "height": 40,
+        "label": "ocr_FEAT_ENG_ERR",
+        "mode": "ocr"
+    },
+    {
+        "top": 232,
+        "left": 1693,
+        "width": 144,
+        "height": 42,
+        "label": "ocr_cmd_enable",
+        "mode": "ocr"
+    }
+]

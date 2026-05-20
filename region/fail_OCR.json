@@ -1,0 +1,98 @@
+[
+    {
+        "top": 773,
+        "left": 1691,
+        "width": 119,
+        "height": 20,
+        "label": "BWP_line6",
+        "mode": "click"
+    },
+    {
+        "top": 797,
+        "left": 1692,
+        "width": 117,
+        "height": 18,
+        "label": "BWP_line7",
+        "mode": "click"
+    },
+    {
+        "top": 621,
+        "left": 1689,
+        "width": 119,
+        "height": 22,
+        "label": "BWP_line1",
+        "mode": "click"
+    },
+    {
+        "top": 649,
+        "left": 1690,
+        "width": 117,
+        "height": 24,
+        "label": "BWP_line2",
+        "mode": "click"
+    },
+    {
+        "top": 681,
+        "left": 1690,
+        "width": 119,
+        "height": 23,
+        "label": "BWP_line3",
+        "mode": "click"
+    },
+    {
+        "top": 709,
+        "left": 1690,
+        "width": 116,
+        "height": 26,
+        "label": "BWP_line4",
+        "mode": "ocr"
+    },
+    {
+        "top": 742,
+        "left": 1690,
+        "width": 116,
+        "height": 24,
+        "label": "BWP_line5",
+        "mode": "click"
+    },
+    {
+        "top": 581,
+        "left": 1689,
+        "width": 137,
+        "height": 35,
+        "label": "BWP",
+        "mode": "click"
+    },
+    {
+        "top": 314,
+        "left": 210,
+        "width": 196,
+        "height": 28,
+        "label": "Plot3_line1",
+        "mode": "click"
+    },
+    {
+        "top": 345,
+        "left": 207,
+        "width": 195,
+        "height": 26,
+        "label": "Plot3_line2",
+        "mode": "click"
+    },
+    {
+        "top": 238,
+        "left": 1113,
+        "width": 208,
+        "height": 29,
+        "label": "Plot2_line1",
+        "mode": "click"
+    },
+    {
+        "top": 269,
+        "left": 1113,
+        "width": 204,
+        "height": 26,
+        "label": "Plot2_line2",
+        "mode": "click"
+    }
+]

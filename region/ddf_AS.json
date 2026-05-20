@@ -1,0 +1,106 @@
+[
+    {
+        "top": 194,
+        "left": 208,
+        "width": 271,
+        "height": 45,
+        "label": "Plot1",
+        "mode": "click"
+    },
+    {
+        "top": 271,
+        "left": 206,
+        "width": 273,
+        "height": 38,
+        "label": "Plot3",
+        "mode": "click"
+    },
+    {
+        "top": 345,
+        "left": 209,
+        "width": 266,
+        "height": 42,
+        "label": "Plot5",
+        "mode": "click"
+    },
+    {
+        "top": 193,
+        "left": 1112,
+        "width": 220,
+        "height": 46,
+        "label": "Plot2",
+        "mode": "click"
+    },
+    {
+        "top": 269,
+        "left": 1115,
+        "width": 219,
+        "height": 44,
+        "label": "Plot4",
+        "mode": "click"
+    },
+    {
+        "top": 474,
+        "left": 1737,
+        "width": 102,
+        "height": 37,
+        "label": "Scale",
+        "mode": "click"
+    },
+    {
+        "top": 238,
+        "left": 208,
+        "width": 346,
+        "height": 60,
+        "label": "Plot1_select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 314,
+        "left": 208,
+        "width": 347,
+        "height": 57,
+        "label": "Plot3_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 388,
+        "left": 207,
+        "width": 347,
+        "height": 61,
+        "label": "Plot5_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 238,
+        "left": 1114,
+        "width": 308,
+        "height": 58,
+        "label": "Plot2_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 314,
+        "left": 1113,
+        "width": 309,
+        "height": 58,
+        "label": "Plot4_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 511,
+        "left": 1738,
+        "width": 139,
+        "height": 204,
+        "label": "Scale_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 142,
+        "left": 1866,
+        "width": 21,
+        "height": 18,
+        "label": "Hide_plotter",
+        "mode": "click"
+    }
+]

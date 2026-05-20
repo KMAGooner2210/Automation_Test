@@ -1,0 +1,58 @@
+[
+    {
+        "top": 735,
+        "left": 1690,
+        "width": 82,
+        "height": 35,
+        "label": "ACC_Range",
+        "mode": "click"
+    },
+    {
+        "top": 778,
+        "left": 1690,
+        "width": 92,
+        "height": 115,
+        "label": "Range_Dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 569,
+        "left": 1689,
+        "width": 115,
+        "height": 202,
+        "label": "ODR_Dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 526,
+        "left": 1690,
+        "width": 114,
+        "height": 42,
+        "label": "ODR",
+        "mode": "click"
+    },
+    {
+        "top": 579,
+        "left": 1694,
+        "width": 109,
+        "height": 36,
+        "label": "BWP",
+        "mode": "click"
+    },
+    {
+        "top": 782,
+        "left": 1690,
+        "width": 112,
+        "height": 38,
+        "label": "IIR_RO",
+        "mode": "click"
+    },
+    {
+        "top": 826,
+        "left": 1689,
+        "width": 103,
+        "height": 116,
+        "label": "IIR_RO_Dropdown",
+        "mode": "select_dropdown"
+    }
+]

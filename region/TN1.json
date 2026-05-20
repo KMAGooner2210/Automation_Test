@@ -1,0 +1,58 @@
+[
+    {
+        "top": 112,
+        "left": 335,
+        "width": 140,
+        "height": 42,
+        "label": "HM_IF_SENSOR_PRESET",
+        "mode": "click"
+    },
+    {
+        "top": 849,
+        "left": 1693,
+        "width": 89,
+        "height": 40,
+        "label": "GS_CF_ACC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 851,
+        "left": 1695,
+        "width": 129,
+        "height": 38,
+        "label": "GS_CF_ACC_ODR_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 213,
+        "left": 1884,
+        "width": 10,
+        "height": 807,
+        "label": "GS_CF_SCROLL_CL",
+        "mode": "click"
+    },
+    {
+        "top": 214,
+        "left": 1882,
+        "width": 12,
+        "height": 814,
+        "label": "GS_CF_SCROLL_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 579,
+        "left": 1686,
+        "width": 90,
+        "height": 38,
+        "label": "GS_CF_ACC_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 576,
+        "left": 1683,
+        "width": 188,
+        "height": 193,
+        "label": "GS_ACC_MODE_SELECT_DD",
+        "mode": "select_dropdown"
+    }
+]

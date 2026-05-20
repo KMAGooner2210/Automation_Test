@@ -1,0 +1,282 @@
+[
+    {
+        "top": 115,
+        "left": 129,
+        "width": 160,
+        "height": 36,
+        "label": "Start",
+        "mode": "click"
+    },
+    {
+        "top": 117,
+        "left": 552,
+        "width": 81,
+        "height": 36,
+        "label": "Sensor_Preset",
+        "mode": "click"
+    },
+    {
+        "top": 113,
+        "left": 1286,
+        "width": 98,
+        "height": 42,
+        "label": "Export",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 133,
+        "width": 26,
+        "height": 22,
+        "label": "Start_plot",
+        "mode": "click"
+    },
+    {
+        "top": 241,
+        "left": 180,
+        "width": 21,
+        "height": 21,
+        "label": "Scroll_to_zoom",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 224,
+        "width": 23,
+        "height": 22,
+        "label": "Zoom_in",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 311,
+        "width": 24,
+        "height": 20,
+        "label": "Zoom_particular",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 356,
+        "width": 25,
+        "height": 21,
+        "label": "Show_x_y",
+        "mode": "click"
+    },
+    {
+        "top": 241,
+        "left": 398,
+        "width": 25,
+        "height": 21,
+        "label": "Save_plot",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 444,
+        "width": 23,
+        "height": 26,
+        "label": "Print_preview",
+        "mode": "click"
+    },
+    {
+        "top": 238,
+        "left": 477,
+        "width": 53,
+        "height": 24,
+        "label": "Color",
+        "mode": "click"
+    },
+    {
+        "top": 238,
+        "left": 545,
+        "width": 52,
+        "height": 24,
+        "label": "Unit",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 617,
+        "width": 50,
+        "height": 21,
+        "label": "Axes",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 680,
+        "width": 38,
+        "height": 23,
+        "label": "Reset",
+        "mode": "click"
+    },
+    {
+        "top": 190,
+        "left": 1368,
+        "width": 27,
+        "height": 25,
+        "label": "Maximize_plot_window",
+        "mode": "click"
+    },
+    {
+        "top": 193,
+        "left": 1416,
+        "width": 22,
+        "height": 21,
+        "label": "Minimize_hide",
+        "mode": "ocr"
+    },
+    {
+        "top": 192,
+        "left": 1819,
+        "width": 31,
+        "height": 23,
+        "label": "Minimize_plot_window",
+        "mode": "click"
+    },
+    {
+        "top": 193,
+        "left": 1869,
+        "width": 22,
+        "height": 22,
+        "label": "Maximize_hide",
+        "mode": "click"
+    },
+    {
+        "top": 272,
+        "left": 479,
+        "width": 71,
+        "height": 117,
+        "label": "Color_dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 271,
+        "left": 541,
+        "width": 100,
+        "height": 117,
+        "label": "Unit_dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 2,
+        "left": 1879,
+        "width": 37,
+        "height": 21,
+        "label": "Quit",
+        "mode": "click"
+    },
+    {
+        "top": 401,
+        "left": 387,
+        "width": 47,
+        "height": 11,
+        "label": "x_y_mouse_start",
+        "mode": "move_mouse"
+    },
+    {
+        "top": 482,
+        "left": 348,
+        "width": 52,
+        "height": 12,
+        "label": "x_y_mouse_stop",
+        "mode": "move_mouse"
+    },
+    {
+        "top": 242,
+        "left": 266,
+        "width": 28,
+        "height": 20,
+        "label": "Zoom_out",
+        "mode": "click"
+    },
+    {
+        "top": 38,
+        "left": 1687,
+        "width": 35,
+        "height": 31,
+        "label": "Help",
+        "mode": "click"
+    },
+    {
+        "top": 88,
+        "left": 1639,
+        "width": 144,
+        "height": 36,
+        "label": "User_Manual",
+        "mode": "click"
+    },
+    {
+        "top": 133,
+        "left": 1641,
+        "width": 149,
+        "height": 28,
+        "label": "HW_FW_Info",
+        "mode": "click"
+    },
+    {
+        "top": 172,
+        "left": 1639,
+        "width": 161,
+        "height": 29,
+        "label": "License",
+        "mode": "click"
+    },
+    {
+        "top": 212,
+        "left": 1640,
+        "width": 175,
+        "height": 30,
+        "label": "Third_Party_Software",
+        "mode": "click"
+    },
+    {
+        "top": 388,
+        "left": 1211,
+        "width": 39,
+        "height": 33,
+        "label": "HW_FW_Info_quit",
+        "mode": "click"
+    },
+    {
+        "top": 227,
+        "left": 1366,
+        "width": 33,
+        "height": 35,
+        "label": "License_quit",
+        "mode": "click"
+    },
+    {
+        "top": 273,
+        "left": 608,
+        "width": 102,
+        "height": 37,
+        "label": "X-axis",
+        "mode": "click"
+    },
+    {
+        "top": 313,
+        "left": 609,
+        "width": 99,
+        "height": 35,
+        "label": "Y-axis",
+        "mode": "click"
+    },
+    {
+        "top": 352,
+        "left": 610,
+        "width": 98,
+        "height": 36,
+        "label": "Z-axis",
+        "mode": "click"
+    },
+    {
+        "top": 131,
+        "left": 291,
+        "width": 13,
+        "height": 18,
+        "label": "Stop",
+        "mode": "click"
+    }
+]

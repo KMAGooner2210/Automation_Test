@@ -1,0 +1,74 @@
+[
+    {
+        "top": 179,
+        "left": 278,
+        "width": 87,
+        "height": 32,
+        "label": "Search",
+        "mode": "click"
+    },
+    {
+        "top": 176,
+        "left": 116,
+        "width": 161,
+        "height": 39,
+        "label": "Search_input",
+        "mode": "input"
+    },
+    {
+        "top": 261,
+        "left": 122,
+        "width": 181,
+        "height": 49,
+        "label": "Memory_chosen",
+        "mode": "click"
+    },
+    {
+        "top": 90,
+        "left": 96,
+        "width": 71,
+        "height": 34,
+        "label": "HOST_IF_click",
+        "mode": "click"
+    },
+    {
+        "top": 91,
+        "left": 220,
+        "width": 150,
+        "height": 35,
+        "label": "EXTENDED_REG_MAP",
+        "mode": "click"
+    },
+    {
+        "top": 180,
+        "left": 750,
+        "width": 64,
+        "height": 35,
+        "label": "Reg_Input_Click",
+        "mode": "click"
+    },
+    {
+        "top": 177,
+        "left": 722,
+        "width": 89,
+        "height": 40,
+        "label": "Reg_Input",
+        "mode": "input"
+    },
+    {
+        "top": 412,
+        "left": 1145,
+        "width": 77,
+        "height": 39,
+        "label": "moveToScroll",
+        "mode": "move_mouse"
+    },
+    {
+        "top": 269,
+        "left": 731,
+        "width": 189,
+        "height": 622,
+        "label": "Read_test",
+        "mode": "select_dropdown"
+    }
+]

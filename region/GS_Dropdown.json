@@ -1,0 +1,162 @@
+[
+    {
+        "top": 198,
+        "left": 1689,
+        "width": 181,
+        "height": 61,
+        "label": "Feat_eng_err_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 351,
+        "left": 1688,
+        "width": 179,
+        "height": 65,
+        "label": "CMD_Suspend_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 462,
+        "left": 1687,
+        "width": 179,
+        "height": 91,
+        "label": "Sens_Ctrl_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 567,
+        "left": 1689,
+        "width": 178,
+        "height": 204,
+        "label": "ODR_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 619,
+        "left": 1689,
+        "width": 180,
+        "height": 202,
+        "label": "BWP",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 669,
+        "left": 1690,
+        "width": 177,
+        "height": 58,
+        "label": "Power_Mode_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 771,
+        "left": 1689,
+        "width": 181,
+        "height": 124,
+        "label": "Range_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 821,
+        "left": 1690,
+        "width": 178,
+        "height": 121,
+        "label": "IIR_RO_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 872,
+        "left": 1689,
+        "width": 179,
+        "height": 60,
+        "label": "Noise_Mode_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 923,
+        "left": 1688,
+        "width": 180,
+        "height": 57,
+        "label": "Drdy_int_auto_clear_Select",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 156,
+        "left": 1689,
+        "width": 178,
+        "height": 37,
+        "label": "Feat_eng_err",
+        "mode": "click"
+    },
+    {
+        "top": 313,
+        "left": 1688,
+        "width": 176,
+        "height": 36,
+        "label": "CMD_Suspend",
+        "mode": "click"
+    },
+    {
+        "top": 418,
+        "left": 1690,
+        "width": 175,
+        "height": 42,
+        "label": "Sens_Ctrl",
+        "mode": "click"
+    },
+    {
+        "top": 528,
+        "left": 1690,
+        "width": 172,
+        "height": 37,
+        "label": "ODR",
+        "mode": "click"
+    },
+    {
+        "top": 577,
+        "left": 1692,
+        "width": 172,
+        "height": 39,
+        "label": "BWP",
+        "mode": "click"
+    },
+    {
+        "top": 627,
+        "left": 1692,
+        "width": 173,
+        "height": 39,
+        "label": "Power_Mode",
+        "mode": "click"
+    },
+    {
+        "top": 732,
+        "left": 1693,
+        "width": 176,
+        "height": 38,
+        "label": "Range",
+        "mode": "click"
+    },
+    {
+        "top": 783,
+        "left": 1692,
+        "width": 173,
+        "height": 38,
+        "label": "IIR_RO",
+        "mode": "click"
+    },
+    {
+        "top": 832,
+        "left": 1693,
+        "width": 171,
+        "height": 37,
+        "label": "Noise_Mode",
+        "mode": "click"
+    },
+    {
+        "top": 883,
+        "left": 1693,
+        "width": 169,
+        "height": 34,
+        "label": "Drdy_int_auto_clear",
+        "mode": "click"
+    }
+]

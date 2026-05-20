@@ -1,0 +1,3770 @@
+[
+    {
+        "top": 111,
+        "left": 335,
+        "width": 131,
+        "height": 52,
+        "label": "HM_IF_SENSOR_PRESET",
+        "mode": "click"
+    },
+    {
+        "top": 850,
+        "left": 1693,
+        "width": 100,
+        "height": 38,
+        "label": "GS_CF_ACC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 849,
+        "left": 1688,
+        "width": 143,
+        "height": 42,
+        "label": "GS_CF_ACC_ODR_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 209,
+        "left": 1882,
+        "width": 17,
+        "height": 806,
+        "label": "GS_CF_SCROLL_CL",
+        "mode": "click"
+    },
+    {
+        "top": 213,
+        "left": 1881,
+        "width": 16,
+        "height": 804,
+        "label": "GS_CF_SCROLL_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 577,
+        "left": 1692,
+        "width": 132,
+        "height": 37,
+        "label": "GS_CF_ACC_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 686,
+        "left": 1694,
+        "width": 92,
+        "height": 36,
+        "label": "GS_CF_GYR_CONF_GYR_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 689,
+        "left": 1692,
+        "width": 132,
+        "height": 34,
+        "label": "GS_CF_GYR_CONF_GYR_ODR_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 689,
+        "left": 1686,
+        "width": 149,
+        "height": 36,
+        "label": "GS_CF_GYR_CONF_GYR_ODR_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 850,
+        "left": 1685,
+        "width": 173,
+        "height": 41,
+        "label": "GS_CF_GYR_CONF_GYR_ODR",
+        "mode": "double_click"
+    },
+    {
+        "top": 782,
+        "left": 1852,
+        "width": 27,
+        "height": 94,
+        "label": "GS_CF_GYR_CONF_GYR_ODR_SL_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 727,
+        "left": 1684,
+        "width": 137,
+        "height": 199,
+        "label": "test",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 892,
+        "left": 1692,
+        "width": 141,
+        "height": 28,
+        "label": "GS_CF_GYR_CONF_GYR_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 915,
+        "left": 1684,
+        "width": 186,
+        "height": 115,
+        "label": "GS_CF_GYR_CONF_GYR_ODR_SELECT_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 108,
+        "left": 120,
+        "width": 182,
+        "height": 48,
+        "label": "HM_IF_START_STREAM",
+        "mode": "click"
+    },
+    {
+        "top": 690,
+        "left": 1690,
+        "width": 169,
+        "height": 202,
+        "label": "ACC_CONF_ACC_ODR_MODE",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 685,
+        "left": 1691,
+        "width": 144,
+        "height": 38,
+        "label": "GS_CF_GYR_ODR_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 852,
+        "left": 1689,
+        "width": 156,
+        "height": 35,
+        "label": "GS_CF_ACC_CONF_ACC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 651,
+        "left": 1697,
+        "width": 117,
+        "height": 34,
+        "label": "GS_CF_ACC_CONF_ACC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 650,
+        "left": 1691,
+        "width": 131,
+        "height": 35,
+        "label": "GS_CF_ACC_CONF_ACC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 791,
+        "left": 1690,
+        "width": 181,
+        "height": 203,
+        "label": "GS_CF_ACC_CONF_ACC_ODR_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 489,
+        "left": 1689,
+        "width": 177,
+        "height": 204,
+        "label": "GS_CF_ACC_CONF_ACC_ODR_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 206,
+        "left": 1881,
+        "width": 18,
+        "height": 811,
+        "label": "ACC_CONF_SCROLL_CL",
+        "mode": "click"
+    },
+    {
+        "top": 205,
+        "left": 1881,
+        "width": 18,
+        "height": 812,
+        "label": "GS_CF_ACC_CONF_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 423,
+        "left": 1690,
+        "width": 183,
+        "height": 205,
+        "label": "GS_CF_ACC_CONF_ACC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 381,
+        "left": 1693,
+        "width": 135,
+        "height": 39,
+        "label": "GS_CF_ACC_CONF_ACC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 425,
+        "left": 1695,
+        "width": 177,
+        "height": 199,
+        "label": "GS_CF_ACC_CONF_ACC_ODR_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 718,
+        "left": 1690,
+        "width": 180,
+        "height": 195,
+        "label": "GS_CF_ACC_CONF_ACC_ODR_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 160,
+        "left": 8,
+        "width": 47,
+        "height": 32,
+        "label": "HM_IF_MEMORY_",
+        "mode": "click"
+    },
+    {
+        "top": 88,
+        "left": 210,
+        "width": 232,
+        "height": 39,
+        "label": "MM_EXTENDED_REG_MAP",
+        "mode": "click"
+    },
+    {
+        "top": 391,
+        "left": 95,
+        "width": 316,
+        "height": 52,
+        "label": "EX_REG_MAP_GEN_INT_ANYMO",
+        "mode": "click"
+    },
+    {
+        "top": 286,
+        "left": 719,
+        "width": 94,
+        "height": 48,
+        "label": "MM_GEN_INT_ANYMO_1",
+        "mode": "input"
+    },
+    {
+        "top": 283,
+        "left": 717,
+        "width": 96,
+        "height": 49,
+        "label": "MM_GEN_INT_ANYMO_1_CL",
+        "mode": "click"
+    },
+    {
+        "top": 573,
+        "left": 829,
+        "width": 73,
+        "height": 52,
+        "label": "GEN_INT_ANYMO_1_WRITE",
+        "mode": "click"
+    },
+    {
+        "top": 576,
+        "left": 743,
+        "width": 74,
+        "height": 46,
+        "label": "GEN_INT_ANYMO_1_READ",
+        "mode": "click"
+    },
+    {
+        "top": 292,
+        "left": 860,
+        "width": 34,
+        "height": 36,
+        "label": "GEN_INT_ANYMO_1_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 149,
+        "left": 1620,
+        "width": 143,
+        "height": 47,
+        "label": "GS_CF_FEA_INT",
+        "mode": "click"
+    },
+    {
+        "top": 257,
+        "left": 1692,
+        "width": 61,
+        "height": 39,
+        "label": "FEA_INT_FEA_IO_2_EN_STEP_DETECT",
+        "mode": "click"
+    },
+    {
+        "top": 259,
+        "left": 1833,
+        "width": 29,
+        "height": 36,
+        "label": "FEA_INT_FEA_IO_2_EN_STEP_DETECT_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 530,
+        "left": 1692,
+        "width": 133,
+        "height": 43,
+        "label": "FEA_INT_IO_INT_CTRL_INT1_LVL",
+        "mode": "click"
+    },
+    {
+        "top": 573,
+        "left": 1690,
+        "width": 178,
+        "height": 56,
+        "label": "FEA_INT_IO_INT_CTRL_INT1_LVL_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 898,
+        "left": 1689,
+        "width": 113,
+        "height": 34,
+        "label": "FEA_INT_INT_CONF_INT1_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 913,
+        "left": 1688,
+        "width": 184,
+        "height": 115,
+        "label": "FEA_INT_INT_CONF_INT1_MODE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 174,
+        "left": 98,
+        "width": 257,
+        "height": 42,
+        "label": "MM_SEARCH_FEA_INT_FEA_IO_2_EN_STEP_DETECT",
+        "mode": "input"
+    },
+    {
+        "top": 291,
+        "left": 717,
+        "width": 81,
+        "height": 45,
+        "label": "FEA_IO_2_EN_STEP_DETECT_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 648,
+        "left": 94,
+        "width": 201,
+        "height": 55,
+        "label": "HB_FEA_IO_2_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 178,
+        "left": 102,
+        "width": 257,
+        "height": 38,
+        "label": "MM_SEARCH_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 182,
+        "left": 100,
+        "width": 255,
+        "height": 33,
+        "label": "MM_SEARCH",
+        "mode": "input"
+    },
+    {
+        "top": 179,
+        "left": 1452,
+        "width": 17,
+        "height": 830,
+        "label": "HF_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 179,
+        "left": 1451,
+        "width": 16,
+        "height": 827,
+        "label": "HF_MS_SCROLL",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 178,
+        "left": 1449,
+        "width": 18,
+        "height": 137,
+        "label": "HF_CLK1",
+        "mode": "click"
+    },
+    {
+        "top": 178,
+        "left": 1453,
+        "width": 16,
+        "height": 137,
+        "label": "HF_MS_SCROLL1",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 179,
+        "left": 1462,
+        "width": 12,
+        "height": 137,
+        "label": "HF_CLK2",
+        "mode": "click"
+    },
+    {
+        "top": 177,
+        "left": 1463,
+        "width": 10,
+        "height": 139,
+        "label": "HF_MS_SCROLL2",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 156,
+        "left": 1784,
+        "width": 78,
+        "height": 36,
+        "label": "GS_CF_REG_ACCESS",
+        "mode": "click"
+    },
+    {
+        "top": 318,
+        "left": 1689,
+        "width": 92,
+        "height": 45,
+        "label": "GS_REG_ACCESS_NUM_REG",
+        "mode": "input"
+    },
+    {
+        "top": 317,
+        "left": 1689,
+        "width": 105,
+        "height": 46,
+        "label": "GS_REG_ACCESS_NUM_REG",
+        "mode": "input"
+    },
+    {
+        "top": 0,
+        "left": 1836,
+        "width": 29,
+        "height": 35,
+        "label": "GS_MIN_BUT",
+        "mode": "click"
+    },
+    {
+        "top": 357,
+        "left": 1573,
+        "width": 27,
+        "height": 31,
+        "label": "GS_MAX_BUT",
+        "mode": "click"
+    },
+    {
+        "top": 80,
+        "left": 457,
+        "width": 67,
+        "height": 44,
+        "label": "MM_FIFO",
+        "mode": "click"
+    },
+    {
+        "top": 114,
+        "left": 10,
+        "width": 39,
+        "height": 37,
+        "label": "HF_HOME_PAGE",
+        "mode": "click"
+    },
+    {
+        "top": 211,
+        "left": 6,
+        "width": 51,
+        "height": 35,
+        "label": "HF_INTERFACE_SELECTION",
+        "mode": "click"
+    },
+    {
+        "top": 84,
+        "left": 88,
+        "width": 108,
+        "height": 45,
+        "label": "MM_HOST_BUS",
+        "mode": "click"
+    },
+    {
+        "top": 580,
+        "left": 1697,
+        "width": 144,
+        "height": 38,
+        "label": "GS_CF_ACC_CONF_ACC_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 617,
+        "left": 1691,
+        "width": 176,
+        "height": 149,
+        "label": "GS_CF_ACC_CONF_ACC_MODE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 111,
+        "left": 1247,
+        "width": 157,
+        "height": 47,
+        "label": "HI_DATA_EXPORT",
+        "mode": "click"
+    },
+    {
+        "top": 847,
+        "left": 1228,
+        "width": 56,
+        "height": 54,
+        "label": "DATA_EXPORT_CLK_DESTINATION",
+        "mode": "click"
+    },
+    {
+        "top": 603,
+        "left": 406,
+        "width": 101,
+        "height": 57,
+        "label": "CLK_DESTINATION_SAVE",
+        "mode": "click"
+    },
+    {
+        "top": 108,
+        "left": 1295,
+        "width": 26,
+        "height": 890,
+        "label": "DATA_EXPORT_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 110,
+        "left": 1293,
+        "width": 30,
+        "height": 892,
+        "label": "DATA_EXPORT_CLK_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 938,
+        "left": 983,
+        "width": 21,
+        "height": 35,
+        "label": "HOST_LOGGING_ENABLE",
+        "mode": "click"
+    },
+    {
+        "top": 61,
+        "left": 1273,
+        "width": 23,
+        "height": 39,
+        "label": "EXIT_DATA_EXPORT",
+        "mode": "click"
+    },
+    {
+        "top": 964,
+        "left": 1010,
+        "width": 17,
+        "height": 26,
+        "label": "HOST_LOGGING_DISABLE",
+        "mode": "click"
+    },
+    {
+        "top": 935,
+        "left": 1006,
+        "width": 22,
+        "height": 40,
+        "label": "HOST_LOGGING_DISABLE",
+        "mode": "click"
+    },
+    {
+        "top": 937,
+        "left": 989,
+        "width": 36,
+        "height": 30,
+        "label": "HOST_LOGGING_DISABLE",
+        "mode": "click"
+    },
+    {
+        "top": 918,
+        "left": 985,
+        "width": 41,
+        "height": 16,
+        "label": "HOST_LOGGING_DISABLE",
+        "mode": "click"
+    },
+    {
+        "top": 943,
+        "left": 1008,
+        "width": 16,
+        "height": 21,
+        "label": "HOST_LOGGING_DISABLE",
+        "mode": "click"
+    },
+    {
+        "top": 110,
+        "left": 1302,
+        "width": 15,
+        "height": 204,
+        "label": "DATA_EXPORT_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 107,
+        "left": 1300,
+        "width": 14,
+        "height": 206,
+        "label": "DATA_EXPORT_CLK_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 946,
+        "left": 993,
+        "width": 31,
+        "height": 13,
+        "label": "HOST_LOGGING_DISABLE",
+        "mode": "click"
+    },
+    {
+        "top": 945,
+        "left": 996,
+        "width": 20,
+        "height": 14,
+        "label": "HOST_LOGGING_DISABLE",
+        "mode": "click"
+    },
+    {
+        "top": 691,
+        "left": 540,
+        "width": 60,
+        "height": 39,
+        "label": "HI_GYR_UNIT",
+        "mode": "click"
+    },
+    {
+        "top": 727,
+        "left": 544,
+        "width": 161,
+        "height": 83,
+        "label": "GYR_UNIT_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 743,
+        "left": 1694,
+        "width": 124,
+        "height": 25,
+        "label": "GS_CF_GYR_CONF_GYR_RANGE",
+        "mode": "click"
+    },
+    {
+        "top": 780,
+        "left": 1691,
+        "width": 172,
+        "height": 175,
+        "label": "GYR-RANGE_DPS_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 781,
+        "left": 1691,
+        "width": 166,
+        "height": 172,
+        "label": "GYR_RANGE_DPS_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 778,
+        "left": 1692,
+        "width": 165,
+        "height": 176,
+        "label": "GYR_RANGE_DPS_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 433,
+        "left": 1696,
+        "width": 109,
+        "height": 33,
+        "label": "GS_CF_ACC_CONF_ACC_RANGE",
+        "mode": "click"
+    },
+    {
+        "top": 473,
+        "left": 1695,
+        "width": 171,
+        "height": 144,
+        "label": "ACC_CONF_ACC_RANGE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 229,
+        "left": 539,
+        "width": 60,
+        "height": 43,
+        "label": "HI_ACCEL_UNIT",
+        "mode": "click"
+    },
+    {
+        "top": 268,
+        "left": 544,
+        "width": 155,
+        "height": 116,
+        "label": "ACC_UNIT_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 622,
+        "left": 1883,
+        "width": 12,
+        "height": 329,
+        "label": "GS_MS_SCROLL",
+        "mode": "click"
+    },
+    {
+        "top": 679,
+        "left": 1883,
+        "width": 16,
+        "height": 260,
+        "label": "GS_CF_MS_SL",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 578,
+        "left": 1696,
+        "width": 133,
+        "height": 41,
+        "label": "GS_ACC_CONF_ACC_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 618,
+        "left": 1691,
+        "width": 163,
+        "height": 147,
+        "label": "LB00002",
+        "mode": "ocr"
+    },
+    {
+        "top": 619,
+        "left": 1692,
+        "width": 162,
+        "height": 147,
+        "label": "GS_CF_ACC_MODE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 579,
+        "left": 1697,
+        "width": 125,
+        "height": 33,
+        "label": "GS_CF_ACC_MODE_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 774,
+        "left": 1879,
+        "width": 16,
+        "height": 175,
+        "label": "GS_CF_GYR_MODE_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 166,
+        "left": 1700,
+        "width": 93,
+        "height": 61,
+        "label": "GEN_INT_ANYMO_READ",
+        "mode": "click"
+    },
+    {
+        "top": 163,
+        "left": 1801,
+        "width": 85,
+        "height": 68,
+        "label": "GEN_ANYMO_WRITE",
+        "mode": "click"
+    },
+    {
+        "top": 193,
+        "left": 211,
+        "width": 27,
+        "height": 36,
+        "label": "INTER_SET_I2C",
+        "mode": "click"
+    },
+    {
+        "top": 107,
+        "left": 1741,
+        "width": 147,
+        "height": 47,
+        "label": "INTER_SE_APPLY",
+        "mode": "click"
+    },
+    {
+        "top": 831,
+        "left": 1885,
+        "width": 12,
+        "height": 137,
+        "label": "GS_CF_CLK_MS",
+        "mode": "click"
+    },
+    {
+        "top": 831,
+        "left": 1885,
+        "width": 12,
+        "height": 121,
+        "label": "GS_CF_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 435,
+        "left": 1695,
+        "width": 133,
+        "height": 33,
+        "label": "GS_CF_ACC_CONF_ACC_RANGE_ODR",
+        "mode": "ocr"
+    },
+    {
+        "top": 482,
+        "left": 1696,
+        "width": 133,
+        "height": 33,
+        "label": "GS_CF_ACC_CONF_ACC_BW_ODR",
+        "mode": "ocr"
+    },
+    {
+        "top": 533,
+        "left": 1697,
+        "width": 107,
+        "height": 36,
+        "label": "GS_CF_ACC_CONF_ACC_AVG_NUM__OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 581,
+        "left": 1694,
+        "width": 131,
+        "height": 33,
+        "label": "GS_CF_ACC_CONF_ACC_MODE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 693,
+        "left": 1690,
+        "width": 142,
+        "height": 26,
+        "label": "GS_CF_GYR_CONF_GYR_ODR_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 739,
+        "left": 1695,
+        "width": 96,
+        "height": 26,
+        "label": "GS_CF_GYR_CONF_GYR_RANGE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 786,
+        "left": 1696,
+        "width": 112,
+        "height": 32,
+        "label": "GS_CF_GYR_CONF_GYR_BW_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 255,
+        "left": 1830,
+        "width": 34,
+        "height": 31,
+        "label": "REG_ACCESS_INC_START_ADDRESS",
+        "mode": "click"
+    },
+    {
+        "top": 259,
+        "left": 1787,
+        "width": 29,
+        "height": 25,
+        "label": "REG_ACCESS_DEC_START_ADDRESS",
+        "mode": "click"
+    },
+    {
+        "top": 325,
+        "left": 1834,
+        "width": 22,
+        "height": 31,
+        "label": "REG_ACCESS_INC_NUM_REG",
+        "mode": "click"
+    },
+    {
+        "top": 326,
+        "left": 1786,
+        "width": 25,
+        "height": 26,
+        "label": "REG_ACCESS_DEC_NUM_REG",
+        "mode": "click"
+    },
+    {
+        "top": 190,
+        "left": 1414,
+        "width": 28,
+        "height": 30,
+        "label": "HIDE_ACCEL",
+        "mode": "click"
+    },
+    {
+        "top": 183,
+        "left": 1364,
+        "width": 39,
+        "height": 34,
+        "label": "ACCEL_MAX_PLOT",
+        "mode": "click"
+    },
+    {
+        "top": 187,
+        "left": 1819,
+        "width": 33,
+        "height": 29,
+        "label": "ACCEL_MIN_PLOT",
+        "mode": "click"
+    },
+    {
+        "top": 237,
+        "left": 673,
+        "width": 54,
+        "height": 31,
+        "label": "ACCEL_RESET_PLOT",
+        "mode": "click"
+    },
+    {
+        "top": 232,
+        "left": 444,
+        "width": 27,
+        "height": 35,
+        "label": "PRINT_PREVIEW_ACCEL",
+        "mode": "click"
+    },
+    {
+        "top": 127,
+        "left": 1114,
+        "width": 50,
+        "height": 53,
+        "label": "CLOSE_ACCEL_PRINT",
+        "mode": "click"
+    },
+    {
+        "top": 235,
+        "left": 396,
+        "width": 32,
+        "height": 32,
+        "label": "ACCEL_SAVE_SNAP",
+        "mode": "click"
+    },
+    {
+        "top": 235,
+        "left": 308,
+        "width": 34,
+        "height": 31,
+        "label": "VIEWXY_ACCEL",
+        "mode": "click"
+    },
+    {
+        "top": 409,
+        "left": 467,
+        "width": 29,
+        "height": 18,
+        "label": "MV_MS_PLOT",
+        "mode": "click"
+    },
+    {
+        "top": 417,
+        "left": 431,
+        "width": 17,
+        "height": 4,
+        "label": "MV_MS_PLOT",
+        "mode": "click"
+    },
+    {
+        "top": 236,
+        "left": 352,
+        "width": 33,
+        "height": 26,
+        "label": "VIEWXY_ACCEL",
+        "mode": "click"
+    },
+    {
+        "top": 236,
+        "left": 353,
+        "width": 33,
+        "height": 27,
+        "label": "VIEWXY_ACC",
+        "mode": "click"
+    },
+    {
+        "top": 238,
+        "left": 312,
+        "width": 27,
+        "height": 25,
+        "label": "ACCEL_ZOOM_PARTI_AREA",
+        "mode": "click"
+    },
+    {
+        "top": 236,
+        "left": 220,
+        "width": 33,
+        "height": 27,
+        "label": "ZOOM_IN_PLOT_VIEW_ACCEL",
+        "mode": "click"
+    },
+    {
+        "top": 239,
+        "left": 263,
+        "width": 33,
+        "height": 23,
+        "label": "ZOOM_OUT_PLOT_VIEW_ACCEL",
+        "mode": "click"
+    },
+    {
+        "top": 235,
+        "left": 134,
+        "width": 27,
+        "height": 32,
+        "label": "PAUSE_RESUME_ACCEL_PLOT",
+        "mode": "click"
+    },
+    {
+        "top": 288,
+        "left": 136,
+        "width": 606,
+        "height": 25,
+        "label": "PAUSE_RESUME_ACCEL_PLOT_NOTE",
+        "mode": "click"
+    },
+    {
+        "top": 287,
+        "left": 136,
+        "width": 605,
+        "height": 24,
+        "label": "PAUSE_RESUME_ACCEL_PLOT_NOTE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 159,
+        "left": 12,
+        "width": 42,
+        "height": 32,
+        "label": "HI_MEMORY_MAP",
+        "mode": "click"
+    },
+    {
+        "top": 162,
+        "left": 9,
+        "width": 42,
+        "height": 30,
+        "label": "HI_MEMORY_MAP",
+        "mode": "click"
+    },
+    {
+        "top": 251,
+        "left": 1688,
+        "width": 72,
+        "height": 35,
+        "label": "GS_REG_ACCESS_START_ADD",
+        "mode": "click"
+    },
+    {
+        "top": 256,
+        "left": 1688,
+        "width": 57,
+        "height": 30,
+        "label": "GS_CF_REG_ACC_START_ADD_IN",
+        "mode": "input"
+    },
+    {
+        "top": 595,
+        "left": 1574,
+        "width": 72,
+        "height": 54,
+        "label": "GS_CF_READ_REG_ACCESS",
+        "mode": "click"
+    },
+    {
+        "top": 602,
+        "left": 1721,
+        "width": 71,
+        "height": 42,
+        "label": "GS_CF_WRITE_REG_ACCESS",
+        "mode": "click"
+    },
+    {
+        "top": 440,
+        "left": 1508,
+        "width": 92,
+        "height": 37,
+        "label": "MODIFY_DATA_REG_ACCESS",
+        "mode": "input"
+    },
+    {
+        "top": 598,
+        "left": 1719,
+        "width": 75,
+        "height": 48,
+        "label": "GS_CF_WRITE_REG_ACCESS",
+        "mode": "click"
+    },
+    {
+        "top": 598,
+        "left": 1573,
+        "width": 65,
+        "height": 40,
+        "label": "LB00003",
+        "mode": "double_click"
+    },
+    {
+        "top": 437,
+        "left": 1504,
+        "width": 358,
+        "height": 137,
+        "label": "GS_CF_REG_ACCESS_MODIFY_DATA",
+        "mode": "input"
+    },
+    {
+        "top": 487,
+        "left": 1693,
+        "width": 102,
+        "height": 28,
+        "label": "GS_CF_ACC_CONF_ACC_BW",
+        "mode": "click"
+    },
+    {
+        "top": 520,
+        "left": 1692,
+        "width": 171,
+        "height": 198,
+        "label": "ACC_CONF_ACC_BW_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 533,
+        "left": 1696,
+        "width": 136,
+        "height": 33,
+        "label": "GS_CF_ACC_CONF_ACC_AVG_NUM",
+        "mode": "click"
+    },
+    {
+        "top": 570,
+        "left": 1691,
+        "width": 165,
+        "height": 178,
+        "label": "ACC_AVG_NUM_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 587,
+        "left": 1701,
+        "width": 114,
+        "height": 26,
+        "label": "GS_CF_ACC_CONF_ACC_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 623,
+        "left": 1694,
+        "width": 158,
+        "height": 140,
+        "label": "GS_CF_ACC_CONF_ACC_MODE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 740,
+        "left": 1697,
+        "width": 81,
+        "height": 25,
+        "label": "GS_CF_GYR_RANGE",
+        "mode": "click"
+    },
+    {
+        "top": 776,
+        "left": 1694,
+        "width": 169,
+        "height": 147,
+        "label": "GYR_RANGE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 788,
+        "left": 1694,
+        "width": 120,
+        "height": 28,
+        "label": "GS_CF_GYR_CONF_GYR_BW",
+        "mode": "click"
+    },
+    {
+        "top": 824,
+        "left": 1690,
+        "width": 179,
+        "height": 202,
+        "label": "GS_CF_GYR_CONF_GYR_BW_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 837,
+        "left": 1698,
+        "width": 112,
+        "height": 31,
+        "label": "GS_CF_GYR_AVG_NUM",
+        "mode": "click"
+    },
+    {
+        "top": 832,
+        "left": 1693,
+        "width": 171,
+        "height": 199,
+        "label": "GS_CF_GYR_AVG_NUM_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 885,
+        "left": 1695,
+        "width": 103,
+        "height": 30,
+        "label": "GS_CF_GYR_CONF_GYR_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 886,
+        "left": 1693,
+        "width": 173,
+        "height": 140,
+        "label": "GS_CF_GYR_CONF_GYR_MODE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 957,
+        "left": 1484,
+        "width": 148,
+        "height": 43,
+        "label": "GS_CF_POWER_ON_RESET",
+        "mode": "click"
+    },
+    {
+        "top": 959,
+        "left": 1780,
+        "width": 102,
+        "height": 40,
+        "label": "GS_CF_SOFT_RESET",
+        "mode": "click"
+    },
+    {
+        "top": 174,
+        "left": 717,
+        "width": 75,
+        "height": 46,
+        "label": "MM_CMD_IN",
+        "mode": "click"
+    },
+    {
+        "top": 178,
+        "left": 719,
+        "width": 75,
+        "height": 38,
+        "label": "MM_CMD",
+        "mode": "input"
+    },
+    {
+        "top": 344,
+        "left": 826,
+        "width": 74,
+        "height": 47,
+        "label": "MM_WRITE_CMD",
+        "mode": "click"
+    },
+    {
+        "top": 942,
+        "left": 102,
+        "width": 141,
+        "height": 43,
+        "label": "MM_HOST_BUS_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 266,
+        "left": 114,
+        "width": 257,
+        "height": 38,
+        "label": "MM_EXTEND_REG_GEN_INT_ANYMO_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 304,
+        "left": 724,
+        "width": 136,
+        "height": 29,
+        "label": "HB_FEAT_ENG_MODE",
+        "mode": "click"
+    },
+    {
+        "top": 340,
+        "left": 721,
+        "width": 167,
+        "height": 88,
+        "label": "HB_FEAT_ENG_MODE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 174,
+        "left": 94,
+        "width": 33,
+        "height": 52,
+        "label": "MM_HB_SEARCH",
+        "mode": "click"
+    },
+    {
+        "top": 181,
+        "left": 98,
+        "width": 26,
+        "height": 34,
+        "label": "MM_HB_SEARCH",
+        "mode": "click"
+    },
+    {
+        "top": 181,
+        "left": 369,
+        "width": 31,
+        "height": 29,
+        "label": "DELETE_MM_HB_SEARCH",
+        "mode": "click"
+    },
+    {
+        "top": 945,
+        "left": 1001,
+        "width": 23,
+        "height": 8,
+        "label": "DISABLE_HOST_LOG",
+        "mode": "click"
+    },
+    {
+        "top": 808,
+        "left": 647,
+        "width": 178,
+        "height": 24,
+        "label": "OPEN_DES_FILE",
+        "mode": "click"
+    },
+    {
+        "top": 179,
+        "left": 719,
+        "width": 91,
+        "height": 40,
+        "label": "HB_ACC_CONF_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 184,
+        "left": 721,
+        "width": 91,
+        "height": 33,
+        "label": "HB_MODIFY_ACC_CONF",
+        "mode": "input"
+    },
+    {
+        "top": 559,
+        "left": 830,
+        "width": 68,
+        "height": 42,
+        "label": "HB_ACC_CONF_WRITE",
+        "mode": "click"
+    },
+    {
+        "top": 562,
+        "left": 745,
+        "width": 69,
+        "height": 38,
+        "label": "HB_ACC_CONF_READ",
+        "mode": "click"
+    },
+    {
+        "top": 439,
+        "left": 1506,
+        "width": 358,
+        "height": 76,
+        "label": "GS_REG_ACCESS_DATA_WARNING_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 234,
+        "left": 652,
+        "width": 21,
+        "height": 23,
+        "label": "DATA_EXPORT_SELECT_ALL",
+        "mode": "click"
+    },
+    {
+        "top": 505,
+        "left": 476,
+        "width": 95,
+        "height": 29,
+        "label": "SAVE_DATA_DD",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 402,
+        "width": 21,
+        "height": 20,
+        "label": "ACCEL_SAVE_SNAP_SHOT",
+        "mode": "click"
+    },
+    {
+        "top": 134,
+        "left": 151,
+        "width": 13,
+        "height": 99,
+        "label": "DES_MOUSE_SCROLL_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 135,
+        "left": 151,
+        "width": 13,
+        "height": 98,
+        "label": "SAVE_SNAP_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 134,
+        "left": 151,
+        "width": 15,
+        "height": 101,
+        "label": "SAVE_SNAP_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 121,
+        "left": 37,
+        "width": 93,
+        "height": 24,
+        "label": "DES_SAVE_SNAP",
+        "mode": "click"
+    },
+    {
+        "top": 405,
+        "left": 137,
+        "width": 264,
+        "height": 17,
+        "label": "SNAP_DES_IN",
+        "mode": "input"
+    },
+    {
+        "top": 246,
+        "left": 1493,
+        "width": 150,
+        "height": 45,
+        "label": "START_ADDRESS_OCR_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 248,
+        "left": 1494,
+        "width": 150,
+        "height": 43,
+        "label": "START_ADD_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 258,
+        "left": 1688,
+        "width": 42,
+        "height": 28,
+        "label": "START_ADD_VAL_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 258,
+        "left": 1788,
+        "width": 33,
+        "height": 30,
+        "label": "START_ADD_DEC_BUT",
+        "mode": "ocr"
+    },
+    {
+        "top": 259,
+        "left": 1831,
+        "width": 32,
+        "height": 24,
+        "label": "START_ADD_INC_BUT",
+        "mode": "ocr"
+    },
+    {
+        "top": 322,
+        "left": 1493,
+        "width": 161,
+        "height": 39,
+        "label": "NUM_REG_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 329,
+        "left": 1692,
+        "width": 35,
+        "height": 29,
+        "label": "NUM_REG_VAL_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 327,
+        "left": 1785,
+        "width": 31,
+        "height": 26,
+        "label": "NUM_REG_DEC_BUT_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 329,
+        "left": 1834,
+        "width": 26,
+        "height": 25,
+        "label": "NUM_REG_INC_BUT",
+        "mode": "ocr"
+    },
+    {
+        "top": 393,
+        "left": 1495,
+        "width": 74,
+        "height": 34,
+        "label": "DATA_H_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 402,
+        "left": 1825,
+        "width": 43,
+        "height": 28,
+        "label": "Clear_BUT_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 601,
+        "left": 1578,
+        "width": 64,
+        "height": 40,
+        "label": "REG_ACC_READ_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 602,
+        "left": 1724,
+        "width": 67,
+        "height": 42,
+        "label": "REG_ACC_WRITE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 539,
+        "left": 1694,
+        "width": 133,
+        "height": 25,
+        "label": "FEA_INT_INT1_LVL_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 589,
+        "left": 1699,
+        "width": 120,
+        "height": 28,
+        "label": "FEA_INT_INT1_OD",
+        "mode": "ocr"
+    },
+    {
+        "top": 590,
+        "left": 1695,
+        "width": 121,
+        "height": 24,
+        "label": "FEA_INT1_OD_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 639,
+        "left": 1694,
+        "width": 30,
+        "height": 32,
+        "label": "FEA_INT_INT1_OUTPUT_EN_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 695,
+        "left": 1697,
+        "width": 120,
+        "height": 21,
+        "label": "FEA_INT_INT2_LVL_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 740,
+        "left": 1696,
+        "width": 104,
+        "height": 26,
+        "label": "FEA_INT_INT2_OD_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 790,
+        "left": 1694,
+        "width": 34,
+        "height": 25,
+        "label": "FEA_INT2_OUTPUT_EN_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 575,
+        "left": 1693,
+        "width": 136,
+        "height": 54,
+        "label": "INT1_LVL_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 622,
+        "left": 1687,
+        "width": 142,
+        "height": 59,
+        "label": "FEA_INT_INT1_OD_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 641,
+        "left": 1787,
+        "width": 30,
+        "height": 26,
+        "label": "FEA_INT_INT1_OUTPUT_EN_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 724,
+        "left": 1688,
+        "width": 153,
+        "height": 59,
+        "label": "FEA_INT_INT2_LVL_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 793,
+        "left": 1785,
+        "width": 33,
+        "height": 24,
+        "label": "FEA_INT_INT2_OUTPUT_EN_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 635,
+        "left": 1697,
+        "width": 28,
+        "height": 34,
+        "label": "FEA_INT_INT1_OUTPUT_EN",
+        "mode": "ocr"
+    },
+    {
+        "top": 633,
+        "left": 1696,
+        "width": 31,
+        "height": 37,
+        "label": "FEA_INT_INT1_OUTPUT_EN_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 5,
+        "left": 1884,
+        "width": 27,
+        "height": 33,
+        "label": "DELETE_DES_FILE_EXIT",
+        "mode": "click"
+    },
+    {
+        "top": 149,
+        "left": 1482,
+        "width": 118,
+        "height": 48,
+        "label": "GS_CF_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 245,
+        "left": 1494,
+        "width": 152,
+        "height": 45,
+        "label": "GS_REG_ACC_START_ADDRESS",
+        "mode": "click"
+    },
+    {
+        "top": 244,
+        "left": 1496,
+        "width": 153,
+        "height": 46,
+        "label": "GS_REG_ACC_START_ADDRESS_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 252,
+        "left": 1690,
+        "width": 52,
+        "height": 37,
+        "label": "GS_REG_ACC_START_ADDRESS_VAL_IN",
+        "mode": "click"
+    },
+    {
+        "top": 259,
+        "left": 1785,
+        "width": 33,
+        "height": 26,
+        "label": "GS_REG_ACC_START_ADDRESS_DEC_BUTTON",
+        "mode": "click"
+    },
+    {
+        "top": 256,
+        "left": 1831,
+        "width": 33,
+        "height": 33,
+        "label": "GS_REG_ACC_START_ADDRESS_INC_BUTTON",
+        "mode": "click"
+    },
+    {
+        "top": 324,
+        "left": 1496,
+        "width": 157,
+        "height": 35,
+        "label": "GS_REG_ACC_START_ADDRESS_NUM_REG",
+        "mode": "click"
+    },
+    {
+        "top": 318,
+        "left": 1494,
+        "width": 164,
+        "height": 42,
+        "label": "GS_REG_ACC_NUM_REG_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 327,
+        "left": 1785,
+        "width": 30,
+        "height": 24,
+        "label": "GS_REG_ACC_NUM_DEC_BUTTON",
+        "mode": "click"
+    },
+    {
+        "top": 326,
+        "left": 1833,
+        "width": 27,
+        "height": 28,
+        "label": "GS_REG_NUM_REG_INC_BUTTON",
+        "mode": "click"
+    },
+    {
+        "top": 392,
+        "left": 1495,
+        "width": 75,
+        "height": 35,
+        "label": "GS_REG_ACC_DATA_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 402,
+        "left": 1826,
+        "width": 45,
+        "height": 27,
+        "label": "GS_REG_ACC_CLEAR",
+        "mode": "ocr"
+    },
+    {
+        "top": 441,
+        "left": 1507,
+        "width": 108,
+        "height": 37,
+        "label": "GS_REG_ACC_INPUT_VAL",
+        "mode": "click"
+    },
+    {
+        "top": 600,
+        "left": 1578,
+        "width": 66,
+        "height": 41,
+        "label": "GS_REG_ACC_READ_BUT",
+        "mode": "ocr"
+    },
+    {
+        "top": 601,
+        "left": 1721,
+        "width": 70,
+        "height": 41,
+        "label": "GS_REG_ACC_WRITE_BUT",
+        "mode": "ocr"
+    },
+    {
+        "top": 251,
+        "left": 1686,
+        "width": 34,
+        "height": 36,
+        "label": "GS_REG_ACC_DEFAULT_VAL_START_ADD_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 327,
+        "left": 1689,
+        "width": 42,
+        "height": 31,
+        "label": "GS_REG_ACC_DEFAULT_VAL_NUM_REG_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 320,
+        "left": 1491,
+        "width": 167,
+        "height": 42,
+        "label": "GS_REG_ACC_NUM_REGS",
+        "mode": "ocr"
+    },
+    {
+        "top": 327,
+        "left": 1788,
+        "width": 28,
+        "height": 23,
+        "label": "GS_REG_ACC_NUM_REGS_DEC_BUT",
+        "mode": "click"
+    },
+    {
+        "top": 325,
+        "left": 1830,
+        "width": 32,
+        "height": 29,
+        "label": "GS_REG_ACC_NUM_REGS_INC_BUT",
+        "mode": "click"
+    },
+    {
+        "top": 177,
+        "left": 1450,
+        "width": 20,
+        "height": 140,
+        "label": "HI_STATUS_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 177,
+        "left": 1452,
+        "width": 20,
+        "height": 139,
+        "label": "HI_STATUS_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 175,
+        "left": 1454,
+        "width": 14,
+        "height": 505,
+        "label": "HI_STATUS_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 188,
+        "left": 1451,
+        "width": 19,
+        "height": 492,
+        "label": "HI_STATUS_CLKK_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 306,
+        "left": 722,
+        "width": 142,
+        "height": 28,
+        "label": "MM_FEAT_ENG_MODE_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 305,
+        "left": 722,
+        "width": 141,
+        "height": 29,
+        "label": "MM_FEAT_ENG_MODE_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 342,
+        "left": 721,
+        "width": 173,
+        "height": 85,
+        "label": "MM_HB_FEAT_ENG_MODE_FEAT_ENG_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 902,
+        "left": 1696,
+        "width": 135,
+        "height": 30,
+        "label": "GS_FEA_INT_INT_CONF_INT1_MODE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 0,
+        "left": 149,
+        "width": 161,
+        "height": 25,
+        "label": "HI_CONNECTED_SENSOR",
+        "mode": "click"
+    },
+    {
+        "top": 0,
+        "left": 149,
+        "width": 166,
+        "height": 25,
+        "label": "HI_CONNECTED_SENSOR_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 34,
+        "left": 1462,
+        "width": 93,
+        "height": 38,
+        "label": "HI_CONNECTION_STATUS_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 38,
+        "left": 1461,
+        "width": 93,
+        "height": 34,
+        "label": "HI_CONNECTION_STATUS_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 39,
+        "left": 1600,
+        "width": 45,
+        "height": 28,
+        "label": "CONNECTION_TYPE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 39,
+        "left": 1685,
+        "width": 45,
+        "height": 31,
+        "label": "HI_MENU",
+        "mode": "click"
+    },
+    {
+        "top": 90,
+        "left": 1639,
+        "width": 156,
+        "height": 32,
+        "label": "HI_HOME_USER_MANUAL",
+        "mode": "ocr"
+    },
+    {
+        "top": 131,
+        "left": 1637,
+        "width": 239,
+        "height": 31,
+        "label": "HI_HOME_HARD_FIRM_INFO",
+        "mode": "ocr"
+    },
+    {
+        "top": 171,
+        "left": 1636,
+        "width": 175,
+        "height": 35,
+        "label": "HI_LICENSE_AGREE",
+        "mode": "ocr"
+    },
+    {
+        "top": 215,
+        "left": 1638,
+        "width": 180,
+        "height": 32,
+        "label": "HI_THIRD_PARTY_SOFT",
+        "mode": "ocr"
+    },
+    {
+        "top": 0,
+        "left": 255,
+        "width": 50,
+        "height": 22,
+        "label": "HI_CON_SEN_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 441,
+        "left": 1509,
+        "width": 65,
+        "height": 35,
+        "label": "CHIP_ID_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 443,
+        "left": 1509,
+        "width": 59,
+        "height": 32,
+        "label": "CHIP_ID_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 560,
+        "left": 747,
+        "width": 67,
+        "height": 42,
+        "label": "ACC_CONF_READ",
+        "mode": "click"
+    },
+    {
+        "top": 184,
+        "left": 720,
+        "width": 78,
+        "height": 31,
+        "label": "ACC_CONF_OFF_ACC_MODE_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 177,
+        "left": 720,
+        "width": 83,
+        "height": 39,
+        "label": "HB_ACC_CONF_ACC_MODE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 382,
+        "left": 1696,
+        "width": 130,
+        "height": 36,
+        "label": "GS_CF_ACC_CONF_ACC_ODR_CHG_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 384,
+        "left": 1694,
+        "width": 133,
+        "height": 35,
+        "label": "GS_CF_ACC_CONF_ACC_ODR_CHG_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 423,
+        "left": 1691,
+        "width": 171,
+        "height": 199,
+        "label": "GS_CF_ACC_CONF_ACC_ODR_CHG_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 583,
+        "left": 1695,
+        "width": 130,
+        "height": 30,
+        "label": "GS_CF_ACC_CONF_ACC_MODE_CHG_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 424,
+        "left": 1694,
+        "width": 175,
+        "height": 201,
+        "label": "GS_CF_AC_CF_AC_ODR_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 174,
+        "left": 719,
+        "width": 181,
+        "height": 43,
+        "label": "MM_HB_AC_CF_CLK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 437,
+        "left": 1695,
+        "width": 122,
+        "height": 28,
+        "label": "GS_CF_AC_CF_AC_RG_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 437,
+        "left": 1695,
+        "width": 106,
+        "height": 32,
+        "label": "GS_CF_AC_CF_AC_RG_CLK",
+        "mode": "ocr"
+    },
+    {
+        "top": 434,
+        "left": 1696,
+        "width": 100,
+        "height": 29,
+        "label": "GS_CF_AC_CF_AC_RG_CLK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 430,
+        "left": 1694,
+        "width": 116,
+        "height": 37,
+        "label": "GS_CF_AC_CF_AC_RG_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 385,
+        "left": 1695,
+        "width": 129,
+        "height": 32,
+        "label": "GS_CF_AC_CF_AC_ODR",
+        "mode": "click"
+    },
+    {
+        "top": 385,
+        "left": 1697,
+        "width": 122,
+        "height": 30,
+        "label": "GS_CF_AC_CF_AC_ODR_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 532,
+        "left": 1694,
+        "width": 107,
+        "height": 32,
+        "label": "GS_CF_AC_CF_AC_AVG_NUM",
+        "mode": "ocr"
+    },
+    {
+        "top": 487,
+        "left": 1694,
+        "width": 125,
+        "height": 26,
+        "label": "GS_CF_AC_CF_AC_BW_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 581,
+        "left": 1695,
+        "width": 116,
+        "height": 31,
+        "label": "GS_CF_AC_CF_AC_MODE_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 258,
+        "left": 1524,
+        "width": 134,
+        "height": 37,
+        "label": "FE_IO_2_EN_STEP_DETECT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 264,
+        "left": 1786,
+        "width": 33,
+        "height": 23,
+        "label": "FE_IO_2_EN_STEP_DETECT_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 260,
+        "left": 1831,
+        "width": 32,
+        "height": 31,
+        "label": "FE_IO_2_EN_STEP_DETECT_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 259,
+        "left": 1526,
+        "width": 131,
+        "height": 34,
+        "label": "FE_IO_2_EN_STEP_DETECT_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 310,
+        "left": 1522,
+        "width": 135,
+        "height": 36,
+        "label": "FE_IO_2_EN_STEP_COUNT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 312,
+        "left": 1783,
+        "width": 38,
+        "height": 34,
+        "label": "FE_IO_2_EN_STEP_COUNT_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 311,
+        "left": 1829,
+        "width": 33,
+        "height": 36,
+        "label": "FE_IO_2_EN_STEP_COUNT_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 309,
+        "left": 1521,
+        "width": 135,
+        "height": 35,
+        "label": "FE_IO_2_EN_STEP_COUNT_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 369,
+        "left": 1523,
+        "width": 136,
+        "height": 31,
+        "label": "FE_IO_2_EN_SIG_MOTION_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 368,
+        "left": 1783,
+        "width": 39,
+        "height": 31,
+        "label": "FE_IO_2_EN_SIG_MOTION_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 372,
+        "left": 1830,
+        "width": 33,
+        "height": 27,
+        "label": "FE_IO_2_EN_SIG_MOTION_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 372,
+        "left": 1524,
+        "width": 134,
+        "height": 29,
+        "label": "FE_IO_2_EN_SIG_MOTION_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 420,
+        "left": 1522,
+        "width": 159,
+        "height": 33,
+        "label": "FE_IO_2_EN_GEN_INT_ANYMO_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 422,
+        "left": 1786,
+        "width": 30,
+        "height": 35,
+        "label": "FE_IO_2_EN_GEN_INT_ANYMO_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 428,
+        "left": 1834,
+        "width": 28,
+        "height": 28,
+        "label": "FE_IO_2_EN_GEN_INT_ANYMO_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 419,
+        "left": 1523,
+        "width": 159,
+        "height": 34,
+        "label": "FE_IO_2_EN_GEN_INT_ANYMO_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 480,
+        "left": 1524,
+        "width": 155,
+        "height": 32,
+        "label": "FE_IO_2_EN_GEN_INT_NOMO_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 481,
+        "left": 1783,
+        "width": 40,
+        "height": 28,
+        "label": "FE_IO_2_EN_GEN_INT_NOMO_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 481,
+        "left": 1829,
+        "width": 36,
+        "height": 30,
+        "label": "FE_IO_2_EN_GEN_INT_NOMO_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 480,
+        "left": 1525,
+        "width": 153,
+        "height": 34,
+        "label": "FE_IO_2_EN_GEN_INT_NOMO_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 533,
+        "left": 1519,
+        "width": 159,
+        "height": 35,
+        "label": "FE_IO_2_EN_GEN_INT_LOWG_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 534,
+        "left": 1787,
+        "width": 35,
+        "height": 29,
+        "label": "FE_IO_2_EN_GEN_INT_LOWG_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 534,
+        "left": 1829,
+        "width": 32,
+        "height": 28,
+        "label": "FE_IO_2_EN_GEN_INT_LOWG_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 534,
+        "left": 1520,
+        "width": 158,
+        "height": 32,
+        "label": "FE_IO_2_EN_GEN_INT_LOWG_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 589,
+        "left": 1524,
+        "width": 152,
+        "height": 31,
+        "label": "FE_IO_2_EN_GEN_INT_HIGHG_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 591,
+        "left": 1790,
+        "width": 29,
+        "height": 27,
+        "label": "FE_IO_2_EN_GEN_INT_HIGHG_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 592,
+        "left": 1830,
+        "width": 33,
+        "height": 25,
+        "label": "FE_IO_2_EN_GEN_INT_HIGHG_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 589,
+        "left": 1524,
+        "width": 153,
+        "height": 32,
+        "label": "FE_IO_2_EN_GEN_INT_HIGHG_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 638,
+        "left": 1523,
+        "width": 129,
+        "height": 39,
+        "label": "FE_IO_2_EN_SINGLE_TAP_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 646,
+        "left": 1785,
+        "width": 35,
+        "height": 31,
+        "label": "FE_IO_2_EN_SINGLE_TAP_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 645,
+        "left": 1832,
+        "width": 29,
+        "height": 31,
+        "label": "FE_IO_2_EN_SINGLE_TAP_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 642,
+        "left": 1521,
+        "width": 133,
+        "height": 35,
+        "label": "FE_IO_2_EN_SINGLE_TAP_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 694,
+        "left": 1522,
+        "width": 132,
+        "height": 38,
+        "label": "FE_IO_2_EN_DOUBLE_TAP_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 702,
+        "left": 1787,
+        "width": 34,
+        "height": 25,
+        "label": "FE_IO_2_EN_DOUBLE_TAP_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 702,
+        "left": 1830,
+        "width": 36,
+        "height": 28,
+        "label": "FE_IO_2_EN_DOUBLE_TAP_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 696,
+        "left": 1522,
+        "width": 135,
+        "height": 36,
+        "label": "FE_IO_2_EN_DOUBLE_TAP_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 755,
+        "left": 1519,
+        "width": 136,
+        "height": 36,
+        "label": "FE_IO_2_EN_TRIPLE_TAP_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 755,
+        "left": 1781,
+        "width": 41,
+        "height": 28,
+        "label": "FE_IO_2_EN_TRIPLE_TAP_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 754,
+        "left": 1830,
+        "width": 32,
+        "height": 30,
+        "label": "FE_IO_2_EN_TRIPLE_TAP_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 755,
+        "left": 1523,
+        "width": 136,
+        "height": 33,
+        "label": "FE_IO_2_EN_TRIPLE_TAP_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 799,
+        "left": 1520,
+        "width": 161,
+        "height": 48,
+        "label": "FE_IO_2_EN_UPHOLD_TO_WAKE_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 811,
+        "left": 1781,
+        "width": 40,
+        "height": 27,
+        "label": "FE_IO_2_EN_UPHOLD_TO_WAKE_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 812,
+        "left": 1829,
+        "width": 34,
+        "height": 25,
+        "label": "FE_IO_2_EN_UPHOLD_TO_WAKE_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 802,
+        "left": 1524,
+        "width": 156,
+        "height": 46,
+        "label": "FE_IO_2_EN_UPHOLD_TO_WAKE_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 859,
+        "left": 1520,
+        "width": 153,
+        "height": 39,
+        "label": "FE_IO_2_EN_DEVICE_ORIENT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 867,
+        "left": 1788,
+        "width": 32,
+        "height": 29,
+        "label": "FE_IO_2_EN_DEVICE_ORIENT_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 865,
+        "left": 1826,
+        "width": 36,
+        "height": 30,
+        "label": "FE_IO_2_EN_DEVICE_ORIENT_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 861,
+        "left": 1520,
+        "width": 156,
+        "height": 35,
+        "label": "FE_IO_2_EN_DEVICE_ORIENT_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 916,
+        "left": 1522,
+        "width": 141,
+        "height": 37,
+        "label": "FE_IO_2_EN_TILT_DETECT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 918,
+        "left": 1788,
+        "width": 32,
+        "height": 30,
+        "label": "FE_IO_2_EN_TILT_DETECT_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 918,
+        "left": 1826,
+        "width": 39,
+        "height": 30,
+        "label": "FE_IO_2_EN_TILT_DETECT_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 917,
+        "left": 1518,
+        "width": 145,
+        "height": 33,
+        "label": "FE_IO_2_EN_TILT_DETECT_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 974,
+        "left": 1525,
+        "width": 128,
+        "height": 36,
+        "label": "FE_IO_2_EN_I3C_SYNC_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 976,
+        "left": 1786,
+        "width": 37,
+        "height": 29,
+        "label": "FE_IO_2_EN_I3C_SYNC_CLKK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 976,
+        "left": 1828,
+        "width": 37,
+        "height": 32,
+        "label": "FE_IO_2_EN_I3C_SYNC_CLKK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 976,
+        "left": 1527,
+        "width": 124,
+        "height": 31,
+        "label": "FE_IO_2_EN_I3C_SYNC_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 157,
+        "left": 1865,
+        "width": 28,
+        "height": 34,
+        "label": "GS_SHIFT",
+        "mode": "click"
+    },
+    {
+        "top": 157,
+        "left": 1785,
+        "width": 84,
+        "height": 33,
+        "label": "GS_APPLICATION_FEA",
+        "mode": "click"
+    },
+    {
+        "top": 222,
+        "left": 1739,
+        "width": 104,
+        "height": 35,
+        "label": "SEFT_TEST_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 610,
+        "left": 651,
+        "width": 25,
+        "height": 30,
+        "label": "ENABLE_SELF_TEST_ACCEL",
+        "mode": "click"
+    },
+    {
+        "top": 614,
+        "left": 851,
+        "width": 24,
+        "height": 21,
+        "label": "ENABLE_SELF_TEST_GYRO",
+        "mode": "click"
+    },
+    {
+        "top": 682,
+        "left": 1034,
+        "width": 140,
+        "height": 45,
+        "label": "START_SELF_TEST",
+        "mode": "click"
+    },
+    {
+        "top": 683,
+        "left": 1188,
+        "width": 83,
+        "height": 46,
+        "label": "CANCEL_SELF_TEST",
+        "mode": "ocr"
+    },
+    {
+        "top": 579,
+        "left": 1060,
+        "width": 58,
+        "height": 45,
+        "label": "SELF_TEST_OK",
+        "mode": "click"
+    },
+    {
+        "top": 578,
+        "left": 1132,
+        "width": 141,
+        "height": 44,
+        "label": "SELF_TEST_AGAIN_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 161,
+        "left": 492,
+        "width": 118,
+        "height": 45,
+        "label": "MM_FIFO_PRESET_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 646,
+        "left": 1697,
+        "width": 161,
+        "height": 33,
+        "label": "MM_FIFO_CONF_FIFO_EN_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 645,
+        "left": 1697,
+        "width": 131,
+        "height": 29,
+        "label": "MM_FIFO_CONF_FIFO_EN_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 688,
+        "left": 1694,
+        "width": 156,
+        "height": 52,
+        "label": "FIFO_EN_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 90,
+        "left": 454,
+        "width": 67,
+        "height": 42,
+        "label": "HI_MM_FIFO_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 679,
+        "left": 1690,
+        "width": 178,
+        "height": 55,
+        "label": "FF_FIFO_EN_CLKK",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 693,
+        "left": 1697,
+        "width": 135,
+        "height": 34,
+        "label": "FIFO_ACC_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 696,
+        "left": 1693,
+        "width": 134,
+        "height": 32,
+        "label": "FIFO_ACC_EN_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 743,
+        "left": 1695,
+        "width": 137,
+        "height": 27,
+        "label": "FIFO_GYR_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 741,
+        "left": 1692,
+        "width": 138,
+        "height": 29,
+        "label": "FIFO_GYR_EN_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 161,
+        "left": 120,
+        "width": 194,
+        "height": 41,
+        "label": "START_FIFO_STREAM_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 727,
+        "left": 1687,
+        "width": 178,
+        "height": 57,
+        "label": "FF_AC_EN_CLKK",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 780,
+        "left": 1696,
+        "width": 150,
+        "height": 57,
+        "label": "FF_GYR_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 784,
+        "left": 1692,
+        "width": 155,
+        "height": 53,
+        "label": "FIFO_GYR_EN_CLKK_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 695,
+        "left": 128,
+        "width": 42,
+        "height": 36,
+        "label": "HI_PAUSE_GYR_PLOT",
+        "mode": "click"
+    },
+    {
+        "top": 240,
+        "left": 617,
+        "width": 49,
+        "height": 21,
+        "label": "AXES_ACCEL_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 275,
+        "left": 611,
+        "width": 28,
+        "height": 28,
+        "label": "AXES_ACCEL_X_AXIS_EN",
+        "mode": "click"
+    },
+    {
+        "top": 952,
+        "left": 1696,
+        "width": 42,
+        "height": 33,
+        "label": "FIFO_FLUSH_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 953,
+        "left": 1781,
+        "width": 43,
+        "height": 31,
+        "label": "FIFO_FLUSH_CLK_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 952,
+        "left": 1827,
+        "width": 33,
+        "height": 32,
+        "label": "FIFO_FLUSH_CLK_INC",
+        "mode": "click"
+    },
+    {
+        "top": 481,
+        "left": 1695,
+        "width": 86,
+        "height": 34,
+        "label": "FF_WATERMARK_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 487,
+        "left": 1698,
+        "width": 87,
+        "height": 29,
+        "label": "FF_WATERMARK_CLKK_IN",
+        "mode": "input"
+    },
+    {
+        "top": 159,
+        "left": 339,
+        "width": 114,
+        "height": 43,
+        "label": "FIFO_READ_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 600,
+        "left": 1522,
+        "width": 158,
+        "height": 25,
+        "label": "FF_STOP_ON_FULL_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 597,
+        "left": 1526,
+        "width": 157,
+        "height": 27,
+        "label": "FF_STOP_ON_FULL_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 646,
+        "left": 1522,
+        "width": 124,
+        "height": 29,
+        "label": "FF_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 646,
+        "left": 1524,
+        "width": 97,
+        "height": 28,
+        "label": "FF_EN_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 696,
+        "left": 1524,
+        "width": 125,
+        "height": 36,
+        "label": "FF_ACC_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 696,
+        "left": 1521,
+        "width": 132,
+        "height": 34,
+        "label": "FF_ACC_EN_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 741,
+        "left": 1520,
+        "width": 124,
+        "height": 30,
+        "label": "FF_GYR_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 744,
+        "left": 1521,
+        "width": 125,
+        "height": 29,
+        "label": "FF_GYR_EN_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 796,
+        "left": 1525,
+        "width": 126,
+        "height": 30,
+        "label": "FF_TEMP_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 796,
+        "left": 1526,
+        "width": 131,
+        "height": 29,
+        "label": "FF_TEMP_EN_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 843,
+        "left": 1524,
+        "width": 153,
+        "height": 26,
+        "label": "FF_SENSOR_TIME_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 843,
+        "left": 1526,
+        "width": 149,
+        "height": 31,
+        "label": "FF_SENSOR_TIME_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 349,
+        "left": 828,
+        "width": 70,
+        "height": 46,
+        "label": "FF_CTRL_WRITE_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 176,
+        "left": 724,
+        "width": 90,
+        "height": 41,
+        "label": "FF_CTRL_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 179,
+        "left": 724,
+        "width": 88,
+        "height": 34,
+        "label": "FF_CMD_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 182,
+        "left": 723,
+        "width": 98,
+        "height": 31,
+        "label": "FF_CMD_CLKK_IN",
+        "mode": "input"
+    },
+    {
+        "top": 344,
+        "left": 830,
+        "width": 68,
+        "height": 49,
+        "label": "FF_CMD_WRITE_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 178,
+        "left": 721,
+        "width": 101,
+        "height": 34,
+        "label": "FF_CTRL_CLKK_IN",
+        "mode": "input"
+    },
+    {
+        "top": 110,
+        "left": 1264,
+        "width": 137,
+        "height": 45,
+        "label": "HI_DATA_EXPORT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 109,
+        "left": 1301,
+        "width": 19,
+        "height": 893,
+        "label": "DATA_EXPORT_CLKK_",
+        "mode": "click"
+    },
+    {
+        "top": 107,
+        "left": 1302,
+        "width": 17,
+        "height": 896,
+        "label": "DATA_EXPORT_CLKK_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 765,
+        "left": 1238,
+        "width": 34,
+        "height": 32,
+        "label": "DATA_EXPORT_SL_DES_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 43,
+        "left": 358,
+        "width": 30,
+        "height": 29,
+        "label": "RESPECTIVE_PATH_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 43,
+        "left": 188,
+        "width": 210,
+        "height": 29,
+        "label": "RES_PATH_CLKK_FI",
+        "mode": "click"
+    },
+    {
+        "top": 43,
+        "left": 186,
+        "width": 213,
+        "height": 29,
+        "label": "RES_PATH_IN",
+        "mode": "input"
+    },
+    {
+        "top": 506,
+        "left": 478,
+        "width": 93,
+        "height": 30,
+        "label": "SAVE_DATA_DD_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 45,
+        "left": 430,
+        "width": 24,
+        "height": 29,
+        "label": "DATA_EXPORT_ENTRY_DES",
+        "mode": "click"
+    },
+    {
+        "top": 43,
+        "left": 376,
+        "width": 20,
+        "height": 29,
+        "label": "RES_PATH_DELETE_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 937,
+        "left": 988,
+        "width": 16,
+        "height": 33,
+        "label": "ENABLE_HOST_LOGGING_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 307,
+        "left": 674,
+        "width": 24,
+        "height": 23,
+        "label": "DATA_EXPORT_ACCEL_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 452,
+        "left": 675,
+        "width": 21,
+        "height": 23,
+        "label": "DATA_EXPORT_GYRO_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 111,
+        "left": 1264,
+        "width": 141,
+        "height": 47,
+        "label": "HI_DAT_EXPORT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 856,
+        "left": 1238,
+        "width": 35,
+        "height": 37,
+        "label": "DA_EXPORT_CLK_DES",
+        "mode": "click"
+    },
+    {
+        "top": 43,
+        "left": 187,
+        "width": 212,
+        "height": 29,
+        "label": "RES_PATH_IN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 45,
+        "left": 428,
+        "width": 25,
+        "height": 30,
+        "label": "RES_PATH_DES",
+        "mode": "click"
+    },
+    {
+        "top": 107,
+        "left": 1298,
+        "width": 18,
+        "height": 895,
+        "label": "DATA_EXPORT_CLKK_INFO",
+        "mode": "click"
+    },
+    {
+        "top": 109,
+        "left": 1300,
+        "width": 20,
+        "height": 895,
+        "label": "DATA_EXPORT_INFO_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 508,
+        "left": 483,
+        "width": 86,
+        "height": 24,
+        "label": "SAVE_DATA_RES_PATH_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 64,
+        "left": 1271,
+        "width": 24,
+        "height": 26,
+        "label": "EXIT_DATA_EXPORT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 108,
+        "left": 1301,
+        "width": 10,
+        "height": 902,
+        "label": "DA_EX_CLKK_MS",
+        "mode": "click"
+    },
+    {
+        "top": 108,
+        "left": 1302,
+        "width": 9,
+        "height": 899,
+        "label": "DA_EX_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 771,
+        "left": 1243,
+        "width": 24,
+        "height": 22,
+        "label": "DA_EX_DES_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 509,
+        "left": 482,
+        "width": 86,
+        "height": 21,
+        "label": "SAVE_RESPECTIVE_PATH",
+        "mode": "click"
+    },
+    {
+        "top": 963,
+        "left": 984,
+        "width": 25,
+        "height": 28,
+        "label": "ENABLE_HOST_LOG2_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 941,
+        "left": 1006,
+        "width": 18,
+        "height": 22,
+        "label": "HOST_LOGGING_ENABLE2",
+        "mode": "click"
+    },
+    {
+        "top": 836,
+        "left": 1697,
+        "width": 130,
+        "height": 27,
+        "label": "GS_SD_SCWM_SIGMO_MAP",
+        "mode": "click"
+    },
+    {
+        "top": 871,
+        "left": 1694,
+        "width": 156,
+        "height": 116,
+        "label": "GS_SD_SCWM_SIGMO_MAP_INT2_SLDD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 46,
+        "left": 431,
+        "width": 23,
+        "height": 24,
+        "label": "ENTRY_DES_DA_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 368,
+        "left": 1695,
+        "width": 82,
+        "height": 32,
+        "label": "FEATURE_INT_SIG_MOTION_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 372,
+        "left": 1787,
+        "width": 30,
+        "height": 27,
+        "label": "EN_SIG_MOTION_DEC_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 370,
+        "left": 1832,
+        "width": 33,
+        "height": 30,
+        "label": "EN_SIG_MOTION_INC_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 179,
+        "left": 1457,
+        "width": 13,
+        "height": 844,
+        "label": "HI_CLKKK",
+        "mode": "click"
+    },
+    {
+        "top": 178,
+        "left": 1458,
+        "width": 11,
+        "height": 844,
+        "label": "HI_MSS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 178,
+        "left": 1456,
+        "width": 13,
+        "height": 94,
+        "label": "HI_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 175,
+        "left": 1458,
+        "width": 6,
+        "height": 96,
+        "label": "HI_CLK_MS",
+        "mode": "mouse_scroll"
+    },
+    {
+        "top": 869,
+        "left": 1696,
+        "width": 92,
+        "height": 26,
+        "label": "EN_DEVICE_ORIENT",
+        "mode": "click"
+    },
+    {
+        "top": 870,
+        "left": 1832,
+        "width": 28,
+        "height": 24,
+        "label": "EN_DEVICE_ORIENT_INC",
+        "mode": "click"
+    },
+    {
+        "top": 871,
+        "left": 1786,
+        "width": 29,
+        "height": 19,
+        "label": "EN_DEVICE_ORIENT_DEC",
+        "mode": "click"
+    },
+    {
+        "top": 406,
+        "left": 1209,
+        "width": 123,
+        "height": 40,
+        "label": "UD_EN_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 448,
+        "left": 1211,
+        "width": 178,
+        "height": 61,
+        "label": "UD_EN_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 519,
+        "left": 1319,
+        "width": 69,
+        "height": 49,
+        "label": "UD_EN_WRITE",
+        "mode": "click"
+    },
+    {
+        "top": 808,
+        "left": 1697,
+        "width": 86,
+        "height": 33,
+        "label": "EN_UPHOLD_TO_WAKE_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 812,
+        "left": 1792,
+        "width": 26,
+        "height": 24,
+        "label": "EN_UPHOLD_TO_WAKE_DEC_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 814,
+        "left": 1833,
+        "width": 28,
+        "height": 23,
+        "label": "EN_UPHOLD_TO_WAKE_INC_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 854,
+        "left": 650,
+        "width": 26,
+        "height": 24,
+        "label": "DATA_EXPORT_APPEND",
+        "mode": "click"
+    },
+    {
+        "top": 302,
+        "left": 729,
+        "width": 104,
+        "height": 24,
+        "label": "FIFO_STOP_ON_FULL_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 332,
+        "left": 722,
+        "width": 142,
+        "height": 61,
+        "label": "FIFO_STOP_ON_FULL_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 402,
+        "left": 727,
+        "width": 106,
+        "height": 32,
+        "label": "FIFO_CONF_FIFO_ACC_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 441,
+        "left": 721,
+        "width": 158,
+        "height": 57,
+        "label": "FIFO_CONF_FIFO_ACC_EN_CLKK_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 462,
+        "left": 726,
+        "width": 139,
+        "height": 29,
+        "label": "FIFO_CONF_FIFO_GYR_EN_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 498,
+        "left": 724,
+        "width": 167,
+        "height": 56,
+        "label": "FIFO_CONF_FIFO_GYR_EN_CLKK_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 183,
+        "left": 724,
+        "width": 90,
+        "height": 31,
+        "label": "HB_FIFO_CONF_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 180,
+        "left": 721,
+        "width": 95,
+        "height": 36,
+        "label": "HB_FIFO_CONF_CLKK_OCR",
+        "mode": "ocr"
+    },
+    {
+        "top": 189,
+        "left": 724,
+        "width": 36,
+        "height": 24,
+        "label": "HB_FIFO_CONF_CLKK_OCR2",
+        "mode": "ocr"
+    },
+    {
+        "top": 189,
+        "left": 726,
+        "width": 28,
+        "height": 21,
+        "label": "HB_FIFO_CONF_CLKK_OCR1",
+        "mode": "ocr"
+    },
+    {
+        "top": 256,
+        "left": 10,
+        "width": 43,
+        "height": 37,
+        "label": "HI_APP_SETTINGS_CLK",
+        "mode": "click"
+    },
+    {
+        "top": 200,
+        "left": 214,
+        "width": 231,
+        "height": 31,
+        "label": "APP_SETTINGS_SELECT_PLOT1",
+        "mode": "click"
+    },
+    {
+        "top": 238,
+        "left": 209,
+        "width": 319,
+        "height": 87,
+        "label": "APP_SETTINGS_SELECT_PLOT1_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 271,
+        "left": 1115,
+        "width": 276,
+        "height": 39,
+        "label": "APP_SETTINGS_SELECT_PLOT4",
+        "mode": "click"
+    },
+    {
+        "top": 315,
+        "left": 1114,
+        "width": 271,
+        "height": 54,
+        "label": "APP_SETTINGS_SELECT_PLOT4_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 198,
+        "left": 1116,
+        "width": 245,
+        "height": 35,
+        "label": "APP_SETTINGS_SELECT_PLOT2",
+        "mode": "click"
+    },
+    {
+        "top": 237,
+        "left": 1114,
+        "width": 381,
+        "height": 58,
+        "label": "APP_SETTINGS_SELECT_PLOT2_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 276,
+        "left": 215,
+        "width": 232,
+        "height": 31,
+        "label": "APP_SETTINGS_SELECT_PLOT3",
+        "mode": "click"
+    },
+    {
+        "top": 314,
+        "left": 212,
+        "width": 315,
+        "height": 56,
+        "label": "APP_SETTINGS_SELECT_PLOT3_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 358,
+        "left": 213,
+        "width": 319,
+        "height": 24,
+        "label": "APP_SETTINGS_SELECT_PLOT5",
+        "mode": "click"
+    },
+    {
+        "top": 393,
+        "left": 209,
+        "width": 289,
+        "height": 57,
+        "label": "APP_SETTINGS_SELECT_PLOT5_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 353,
+        "left": 1119,
+        "width": 255,
+        "height": 27,
+        "label": "APP_SETTINGS_SELECT_PLOT6",
+        "mode": "click"
+    },
+    {
+        "top": 389,
+        "left": 1114,
+        "width": 274,
+        "height": 57,
+        "label": "APP_SETTINGS_SELECT_PLOT6_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 429,
+        "left": 213,
+        "width": 253,
+        "height": 29,
+        "label": "APP_SETTINGS_SELECT_PLOT7",
+        "mode": "click"
+    },
+    {
+        "top": 467,
+        "left": 207,
+        "width": 271,
+        "height": 56,
+        "label": "APP_SETTINGS_SELECT_PLOT7_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 426,
+        "left": 1118,
+        "width": 241,
+        "height": 35,
+        "label": "APP_SETTINGS_SELECT_PLOT8",
+        "mode": "click"
+    },
+    {
+        "top": 469,
+        "left": 1114,
+        "width": 263,
+        "height": 52,
+        "label": "APP_SETTINGS_SELECT_PLOT8_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 506,
+        "left": 210,
+        "width": 284,
+        "height": 29,
+        "label": "APP_SETTINGS_SELECT_PLOT9",
+        "mode": "click"
+    },
+    {
+        "top": 542,
+        "left": 208,
+        "width": 306,
+        "height": 58,
+        "label": "APP_SETTINGS_SELECT_PLOT9_SL_DD",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 236,
+        "left": 207,
+        "width": 304,
+        "height": 88,
+        "label": "'APP_SETTINGS_SELECT_PLOT1_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 238,
+        "left": 1115,
+        "width": 345,
+        "height": 86,
+        "label": "APP_SETTINGS_SELECT_PLOT2_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 241,
+        "left": 209,
+        "width": 270,
+        "height": 81,
+        "label": "APP_SETTINGS_SELECT_PLOT1_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 317,
+        "left": 1116,
+        "width": 304,
+        "height": 115,
+        "label": "APP_SETTINGS_SELECT_PLOT4_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 834,
+        "left": 1692,
+        "width": 166,
+        "height": 194,
+        "label": "ACC_AVG_NUM_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 568,
+        "left": 1691,
+        "width": 170,
+        "height": 199,
+        "label": "ACC_AVG_NUM_SL_DD22",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 833,
+        "left": 1693,
+        "width": 170,
+        "height": 197,
+        "label": "GYR_AVG_NUM_SL_DD22",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 867,
+        "left": 1692,
+        "width": 172,
+        "height": 159,
+        "label": "GYR_AVG_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 186,
+        "left": 728,
+        "width": 93,
+        "height": 25,
+        "label": "HB_ACC_CONF_ACC_MODE_OCR2",
+        "mode": "ocr"
+    },
+    {
+        "top": 592,
+        "left": 1689,
+        "width": 172,
+        "height": 175,
+        "label": "ACC_AVG_NUM_SL_DD_CL2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 647,
+        "left": 1691,
+        "width": 167,
+        "height": 118,
+        "label": "ACC_MODE_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 776,
+        "left": 1691,
+        "width": 104,
+        "height": 174,
+        "label": "GYR_RANGE_SL_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 170,
+        "left": 719,
+        "width": 181,
+        "height": 54,
+        "label": "HB_ACC_CONF_ACC_MODE_OCR22",
+        "mode": "ocr"
+    },
+    {
+        "top": 185,
+        "left": 776,
+        "width": 43,
+        "height": 27,
+        "label": "ACC_CONF_OFF_ACC_MODE_CLK2",
+        "mode": "click"
+    },
+    {
+        "top": 880,
+        "left": 1688,
+        "width": 184,
+        "height": 149,
+        "label": "GS_CF_GYR_CONF_GYR_ODR_SELECT_DD2",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 158,
+        "left": 1479,
+        "width": 25,
+        "height": 31,
+        "label": "SHIFT_RIGHT_CLKK",
+        "mode": "click"
+    },
+    {
+        "top": 612,
+        "left": 649,
+        "width": 27,
+        "height": 29,
+        "label": "LB00004",
+        "mode": "image_locate"
+    },
+    {
+        "top": 270,
+        "left": 1471,
+        "width": 26,
+        "height": 24,
+        "label": "MAX_BUT1",
+        "mode": "click"
+    }
+]

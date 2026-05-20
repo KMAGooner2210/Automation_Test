@@ -1,0 +1,18 @@
+[
+    {
+        "top": 578,
+        "left": 1692,
+        "width": 174,
+        "height": 36,
+        "label": "BWP",
+        "mode": "click"
+    },
+    {
+        "top": 115,
+        "left": 129,
+        "width": 166,
+        "height": 36,
+        "label": "Start",
+        "mode": "click"
+    }
+]

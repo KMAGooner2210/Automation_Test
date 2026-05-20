@@ -1,0 +1,207 @@
+[
+    {
+        "top": 119,
+        "left": 512,
+        "width": 119,
+        "height": 26,
+        "label": "SENSOR_PRESET"
+    },
+    {
+        "top": 117,
+        "left": 1295,
+        "width": 102,
+        "height": 30,
+        "label": "DATA_EXPORT"
+    },
+    {
+        "top": 409,
+        "left": 1686,
+        "width": 63,
+        "height": 31,
+        "label": "FEAT_ENG_ERR"
+    },
+    {
+        "top": 457,
+        "left": 1688,
+        "width": 57,
+        "height": 34,
+        "label": "ACC_CONF_ERR"
+    },
+    {
+        "top": 567,
+        "left": 1691,
+        "width": 78,
+        "height": 26,
+        "label": "SUSPEND"
+    },
+    {
+        "top": 675,
+        "left": 1692,
+        "width": 70,
+        "height": 28,
+        "label": "SENSOR_CTRL"
+    },
+    {
+        "top": 779,
+        "left": 1690,
+        "width": 69,
+        "height": 32,
+        "label": "ACC_ODR"
+    },
+    {
+        "top": 829,
+        "left": 1690,
+        "width": 109,
+        "height": 30,
+        "label": "ACC_BWP"
+    },
+    {
+        "top": 986,
+        "left": 1691,
+        "width": 76,
+        "height": 30,
+        "label": "ACC_RANGE"
+    },
+    {
+        "top": 111,
+        "left": 158,
+        "width": 139,
+        "height": 41,
+        "label": "STREAMING1"
+    },
+    {
+        "top": 875,
+        "left": 1688,
+        "width": 61,
+        "height": 34,
+        "label": "POWER_MODE"
+    },
+    {
+        "top": 158,
+        "left": 12,
+        "width": 33,
+        "height": 34,
+        "label": "MEMORY_MAP",
+        "mode": "click"
+    },
+    {
+        "top": 206,
+        "left": 12,
+        "width": 36,
+        "height": 34,
+        "label": "INTERFACE_SELECT",
+        "mode": "click"
+    },
+    {
+        "top": 109,
+        "left": 6,
+        "width": 43,
+        "height": 39,
+        "label": "HOME",
+        "mode": "click"
+    },
+    {
+        "top": 251,
+        "left": 11,
+        "width": 38,
+        "height": 38,
+        "label": "SETTING",
+        "mode": "click"
+    },
+    {
+        "top": 118,
+        "left": 328,
+        "width": 77,
+        "height": 30,
+        "label": "POLLING",
+        "mode": "ocr"
+    },
+    {
+        "top": 40,
+        "left": 1597,
+        "width": 50,
+        "height": 25,
+        "label": "COM_BUTTON",
+        "mode": "ocr"
+    },
+    {
+        "top": 37,
+        "left": 1683,
+        "width": 43,
+        "height": 31,
+        "label": "HELP_BUTTON",
+        "mode": "click"
+    },
+    {
+        "top": 41,
+        "left": 1462,
+        "width": 91,
+        "height": 23,
+        "label": "CONNECTED",
+        "mode": "ocr"
+    },
+    {
+        "top": 252,
+        "left": 1541,
+        "width": 90,
+        "height": 33,
+        "label": "WEARABLE",
+        "mode": "ocr"
+    },
+    {
+        "top": 303,
+        "left": 1544,
+        "width": 109,
+        "height": 32,
+        "label": "SMART_PHONE",
+        "mode": "ocr"
+    },
+    {
+        "top": 154,
+        "left": 1480,
+        "width": 119,
+        "height": 30,
+        "label": "CONFIGURATION",
+        "mode": "ocr"
+    },
+    {
+        "top": 151,
+        "left": 1621,
+        "width": 134,
+        "height": 38,
+        "label": "REGISTER_ACCESS",
+        "mode": "ocr"
+    },
+    {
+        "top": 988,
+        "left": 10,
+        "width": 38,
+        "height": 38,
+        "label": "EXIT",
+        "mode": "click"
+    },
+    {
+        "top": 191,
+        "left": 91,
+        "width": 158,
+        "height": 29,
+        "label": "ACCELEROMETER",
+        "mode": "ocr"
+    },
+    {
+        "top": 648,
+        "left": 92,
+        "width": 207,
+        "height": 33,
+        "label": "INT_STATUS_INT1_0",
+        "mode": "ocr"
+    },
+    {
+        "top": 321,
+        "left": 195,
+        "width": 1130,
+        "height": 234,
+        "label": "PLOTTER_ACCELEROMETER",
+        "mode": "click"
+    }
+]

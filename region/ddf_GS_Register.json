@@ -1,0 +1,106 @@
+[
+    {
+        "top": 246,
+        "left": 1687,
+        "width": 97,
+        "height": 44,
+        "label": "StartAddr",
+        "mode": "click"
+    },
+    {
+        "top": 319,
+        "left": 1688,
+        "width": 94,
+        "height": 40,
+        "label": "Reg_num",
+        "mode": "click"
+    },
+    {
+        "top": 602,
+        "left": 1578,
+        "width": 64,
+        "height": 38,
+        "label": "Read",
+        "mode": "click"
+    },
+    {
+        "top": 601,
+        "left": 1724,
+        "width": 66,
+        "height": 43,
+        "label": "Write",
+        "mode": "click"
+    },
+    {
+        "top": 436,
+        "left": 1501,
+        "width": 364,
+        "height": 59,
+        "label": "Input Data",
+        "mode": "click"
+    },
+    {
+        "top": 247,
+        "left": 1688,
+        "width": 95,
+        "height": 43,
+        "label": "Input_StartAddr",
+        "mode": "input"
+    },
+    {
+        "top": 318,
+        "left": 1689,
+        "width": 99,
+        "height": 38,
+        "label": "Input Reg_num",
+        "mode": "input"
+    },
+    {
+        "top": 438,
+        "left": 1505,
+        "width": 244,
+        "height": 50,
+        "label": "Write data",
+        "mode": "input"
+    },
+    {
+        "top": 254,
+        "left": 1785,
+        "width": 34,
+        "height": 30,
+        "label": "StartAdd_minus",
+        "mode": "click"
+    },
+    {
+        "top": 253,
+        "left": 1830,
+        "width": 35,
+        "height": 31,
+        "label": "StartAdd_plus",
+        "mode": "click"
+    },
+    {
+        "top": 325,
+        "left": 1790,
+        "width": 28,
+        "height": 26,
+        "label": "RegNum_minus",
+        "mode": "click"
+    },
+    {
+        "top": 325,
+        "left": 1829,
+        "width": 33,
+        "height": 28,
+        "label": "RegNum_plus",
+        "mode": "click"
+    },
+    {
+        "top": 400,
+        "left": 1826,
+        "width": 50,
+        "height": 28,
+        "label": "clear",
+        "mode": "click"
+    }
+]

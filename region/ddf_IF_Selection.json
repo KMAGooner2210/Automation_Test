@@ -1,0 +1,106 @@
+[
+    {
+        "top": 194,
+        "left": 100,
+        "width": 61,
+        "height": 29,
+        "label": "SPI",
+        "mode": "ocr"
+    },
+    {
+        "top": 194,
+        "left": 210,
+        "width": 61,
+        "height": 30,
+        "label": "I2C",
+        "mode": "click"
+    },
+    {
+        "top": 335,
+        "left": 276,
+        "width": 166,
+        "height": 42,
+        "label": "SPI_speed",
+        "mode": "click"
+    },
+    {
+        "top": 397,
+        "left": 277,
+        "width": 165,
+        "height": 40,
+        "label": "SPI_length",
+        "mode": "click"
+    },
+    {
+        "top": 459,
+        "left": 277,
+        "width": 162,
+        "height": 36,
+        "label": "SPI_mode",
+        "mode": "click"
+    },
+    {
+        "top": 379,
+        "left": 276,
+        "width": 298,
+        "height": 90,
+        "label": "SPI_speed_Dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 438,
+        "left": 274,
+        "width": 299,
+        "height": 61,
+        "label": "SPI_length_Dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 499,
+        "left": 273,
+        "width": 299,
+        "height": 57,
+        "label": "SPI_mode_Dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 398,
+        "left": 277,
+        "width": 294,
+        "height": 36,
+        "label": "I2C_mode",
+        "mode": "click"
+    },
+    {
+        "top": 440,
+        "left": 273,
+        "width": 299,
+        "height": 58,
+        "label": "I2C_mode_Dropdown",
+        "mode": "select_dropdown"
+    },
+    {
+        "top": 105,
+        "left": 1644,
+        "width": 81,
+        "height": 47,
+        "label": "Cancel_selection",
+        "mode": "click"
+    },
+    {
+        "top": 106,
+        "left": 1743,
+        "width": 136,
+        "height": 44,
+        "label": "Apply_changes",
+        "mode": "click"
+    },
+    {
+        "top": 205,
+        "left": 7,
+        "width": 41,
+        "height": 32,
+        "label": "IF_Settings",
+        "mode": "click"
+    }
+]
